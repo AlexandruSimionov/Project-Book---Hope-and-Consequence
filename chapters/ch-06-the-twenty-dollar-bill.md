@@ -58,11 +58,9 @@ Keisha stopped walking. She looked up and down the street. Nobody. Mr. Patterson
 
 She picked it up.
 
-The bill was dry. That was the first thing she noticed. It hadn't rained since Monday but the gutters were still damp, the leaves in the gutter wet. This bill was dry and clean, like it had just been set down. She unfolded it and held it flat between her palms. Twenty dollars. She had never held a twenty before. She'd held fives her mother gave her for the store, and once a ten at her aunt's wedding. But a twenty was different. A twenty was milk and bread and peanut butter and maybe cheese. A twenty was four days of food if you were careful.
+The bill was dry. It hadn't rained since Monday but the gutters were still damp, the leaves in the gutter wet. This bill was dry and clean, like it had just been set down. She unfolded it and held it flat between her palms. Twenty dollars. She had never held a twenty before. She'd held fives her mother gave her for the store, and once a ten at her aunt's wedding. But a twenty was different. A twenty was milk and bread and peanut butter and maybe cheese. A twenty was four days of food if you were careful.
 
 She folded it back up and put it in her pocket and kept walking, her hand closed around it, the paper already getting warm from her skin.
-
-<!-- AGENT:NOTE — The $20 bill was placed by Michael (Inner Cities Specialist). The dryness of the bill amid damp surroundings is the subtle tell. From Keisha's POV this reads as slightly odd but unremarkable. The reader, knowing the angel framework, should register the anomaly. -->
 
 She was thinking about the Food Lion two blocks past her apartment -- milk, bread, peanut butter, maybe eggs -- counting down from twenty in her head, when she heard someone crying.
 
@@ -78,7 +76,7 @@ Keisha reached into her pocket and felt the twenty. She thought about the milk. 
 
 She pulled the bill out and looked at it. Then she looked at the boy.
 
-She didn't think about what she did next, not exactly. It wasn't a decision the way adults make decisions. It was more like the way water moves -- it finds the downhill path because that's the only path.
+She didn't think about what she did next, not exactly. It wasn't a decision the way adults make decisions. It was more like water -- it finds the downhill path because that's the only path.
 
 "Hey," she said.
 
@@ -150,7 +148,7 @@ Keisha didn't understand. She stood there in her nightgown and felt something sh
 
 "Mama?"
 
-Her mother wiped her eyes with the back of her hand. She reached out and pulled Keisha close, and Keisha's face pressed against the stiff polo that smelled like cleaning spray and the particular tired smell of her mother's skin at the end of a long day.
+Her mother wiped her eyes with the back of her hand. She reached out and pulled Keisha close, and Keisha's face pressed against the stiff polo that smelled like cleaning spray and the tired smell of her mother's skin at the end of a long day.
 
 "I'm not sad, baby."
 

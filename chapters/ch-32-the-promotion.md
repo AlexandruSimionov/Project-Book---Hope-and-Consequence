@@ -12,13 +12,13 @@ The letter was cream-colored stock, heavier than any paper produced on Earth, an
 
 She did not open it.
 
-She set her bag on the chair — the only chair — and stood at the window that faced the brick wall of the adjacent building. Eight feet of wall, visible from top to bottom, the bricks stained with decades of weather and the particular grime of Queens, a patina that Cassiel had memorized the way a prisoner memorizes the stones of a cell. She had been looking at this wall since 1985. She knew its cracks. She knew the place where a vine had tried to grow in 1993 and failed and left a brown scar like a river delta mapped in dead vegetation.
+She set her bag on the chair — the only chair — and stood at the window that faced the brick wall of the adjacent building. Eight feet of wall, visible from top to bottom, the bricks stained with decades of weather and the grime of Queens, a patina that Cassiel had memorized the way a prisoner memorizes the stones of a cell. She had been looking at this wall since 1985. She knew its cracks. She knew the place where a vine had tried to grow in 1993 and failed and left a brown scar like a river delta mapped in dead vegetation.
 
 She knew what the letter said. She had known for three weeks, since Raguel's aide had contacted her through a secure channel to "discuss her future trajectory," which was the administrative language for a decision that had already been made and was being presented as an opportunity. She had heard it in the way the aide's voice bent around certain words — *honor*, *recognition*, *elevation* — words that were shaped like gifts but weighted like anchors.
 
 Archangel level. The promotion.
 
-Cassiel opened the refrigerator, which contained a half-empty carton of milk, a block of cheese with one corner gone hard, and three apples. She took an apple. She ate it standing up, looking at the letter on the table, and the apple tasted like an apple — which was to say it tasted like cold sweetness and fiber and the faint waxy residue of whatever they sprayed on the skin, and it was the most ordinary thing in the room, and she held onto it the way she held onto ordinary things these days, the way a person in a storm holds onto a railing.
+Cassiel opened the refrigerator, which contained a half-empty carton of milk, a block of cheese with one corner gone hard, and three apples. She took an apple. She ate it standing up, looking at the letter on the table, and the apple tasted like an apple — which was to say it tasted like cold sweetness and fiber and the faint waxy residue of whatever they sprayed on the skin, and it was the most ordinary thing in the room, and she held onto it the way a person in a storm holds onto a railing.
 
 The Cascade-7 event had changed everything. Seven margin cases in the same geographic radius, the same week, maximum convergence — the kind of cluster that the system had been designed to distribute across months and regions but that had instead collapsed into a single point like a star going nova. She had coordinated across protocols, across factions, across the unwritten rules that governed how angels interacted in the field. She had called Raphael when she should have filed a report. She had contacted Azrael when she should have waited for authorization. She had broken the chain of command so thoroughly that Raguel's office had opened an investigation, and then Gabriel had sent the Cascade-7 data to every faction — the full record, the unredacted files, the pattern that had been accelerating for decades — and the investigation had been overtaken by something larger.
 
@@ -27,8 +27,6 @@ Then Gabriel died.
 Heart attack at his desk in the 3rd Heaven. Found by Cassiel, who had gone to deliver her field report in person because the secure channels felt inadequate for what she needed to say. She had pushed open the door to his office — the cluttered office with the manila folders and the pencil stubs and the permanent smell of terrible coffee — and he was in his chair, his head tilted slightly to the left, his expression carrying the particular stillness of someone who had stopped between one thought and the next. His last note, handwritten on a legal pad: *The pattern is accelerating. Tell them.*
 
 Two hundred and thirty-seven years of service. The angel who had started unauthorized support groups for field agents who were breaking under the weight of impossible protocols. The angel who had looked at her in the gallery of the Foundation in 1987, after the Subtlety Protocols vote, and said: *Start a support group. For the ones who look like you.* Gone, between a Thursday afternoon and a Friday morning, the way all departures happened — without warning, without ceremony, without enough time.
-
-<!-- AGENT:NOTE — Gabriel's death referenced; coordinates with CONTINUITY.md (Gabriel dies 2025, heart attack at desk, found by Cassiel). His data dump to all factions precipitates the political crisis that frames this chapter. -->
 
 She finished the apple. She set the core on the counter. She opened the letter.
 
@@ -112,7 +110,7 @@ She stood up. The projection's presence pressed against her like weather.
 
 ---
 
-Sandalphon met her on a park bench in Flushing Meadows. He preferred the physical world for conversations that mattered — the former mortal, the angel who remembered what bread tasted like, who had walked the Earth during the Renaissance and still carried the residue of incarnation in the way he occupied a bench, the way his weight settled, the way he watched the pigeons with the patient attention of someone who had once been capable of hunger.
+Sandalphon met her on a park bench in Flushing Meadows. He preferred the physical world for conversations that mattered — the former mortal, the angel who remembered what bread tasted like, who had walked the Earth during the Renaissance and still carried the residue of incarnation in the way he occupied a bench, how his weight settled, how he watched the pigeons with the patient attention of someone who had once been capable of hunger.
 
 The park was bare. March in New York — the trees skeletal, the grass brown and compressed from winter, the sky a pale gray that could not decide between rain and resignation. A man walked a terrier on a retractable leash. Two teenagers sat on a distant bench, sharing earbuds. The world was ordinary. Cassiel sat beside Sandalphon and listened to the pigeons and the distant traffic and the particular quality of silence that existed between two beings who had known each other for centuries and did not need to perform comfort.
 
@@ -130,7 +128,7 @@ The park was bare. March in New York — the trees skeletal, the grass brown and
 
 "Gabriel killed himself. Overwork, stress, the cumulative weight of two hundred and thirty-seven years of carrying what no one else would carry. The system didn't put a gun to his head. It put a desk in front of him and called it service. Don't repeat his mistake from the other direction — don't let them put a different desk in front of you and call it an honor."
 
-Cassiel watched the terrier investigate a patch of dead grass with urgent interest. The dog's owner stood patient, phone in hand, the particular posture of a person waiting for another creature to finish something they did not understand.
+Cassiel watched the terrier investigate a patch of dead grass with urgent interest. The dog's owner stood patient, phone in hand, the posture of a person waiting for another creature to finish something they did not understand.
 
 "Gabriel believed the system could be reformed," Sandalphon said. "He was wrong about many things, but he was right about that. The protocols are changing. Slowly, painfully, the way institutional change always happens — in inches, not miles. But it's happening. Angel coordination is being authorized for Cascade events. Case limits are being increased. Mental health support is being mandated. These are reforms that Gabriel fought for and died without seeing. Someone has to be in the field to implement them. Someone the other field angels trust."
 
@@ -200,8 +198,6 @@ His jaw tightened. The tears ran. The doors began to close.
 
 The doors closed. The train pulled away. Cassiel stood on the platform in the cold March wind and watched the 7 train's lights recede into the tunnel, and she thought about Azrael's face when she had said the thing he already knew, the thing he carried alongside the names in his notebook — that the distance between conviction and complicity was exactly the width of a desk, and they had given him Gabriel's.
 
-<!-- AGENT:NOTE — Four faction meetings establish the political landscape post-Gabriel, post-Cascade-7. Each leader offers a different path; each path is shaped by a wound. Sariel: school shooting. Metatron: proximity to source / institutional certainty. Sandalphon: incarnation memory / patience. Azrael: 9/11 / system failure documentation. Cassiel's decision will reject all four frameworks. -->
-
 ---
 
 The note arrived on a Tuesday.
@@ -210,7 +206,7 @@ She was walking home from a bodega on Roosevelt Avenue, carrying a bag that cont
 
 An angel she did not recognize was standing outside her building.
 
-This was unusual. Cassiel knew most of the field angels in the northeast region — not well, not socially, but the way a long-tenured employee knows the faces in the building, the names attached to the faces, the domains attached to the names. This angel was young — new, possibly, the bearing not yet settled into the particular slouch of institutional weariness that marked a century of service. The angel wore a green coat and held a folded piece of paper and stood with the patient attentiveness of someone who had been told to wait and had accepted waiting as a task with its own dignity.
+This was unusual. Cassiel knew most of the field angels in the northeast region — not well, not socially, but the way a long-tenured employee knows the faces in the building, the names attached to the faces, the domains attached to the names. This angel was young — new, possibly, the bearing not yet settled into the slouch of institutional weariness that marked a century of service. The angel wore a green coat and held a folded piece of paper and stood with the patient attentiveness of someone who had been told to wait and had accepted waiting as a task with its own dignity.
 
 "Cassiel," the angel said.
 
@@ -248,7 +244,7 @@ Inside, a woman was teaching. Seventy-two years old, semi-retired, the white coa
 
 Dr. Sarah Morrison.
 
-She was demonstrating something for a young resident — hands positioned on a mannequin's chest, showing the placement, the pressure, the rhythm. The resident was attentive, uncertain, the particular combination of eagerness and terror that marked the early years of medical training. Sarah adjusted the resident's hand position. She said something Cassiel could not hear through the glass. The resident tried again. Sarah nodded.
+She was demonstrating something for a young resident — hands positioned on a mannequin's chest, showing the placement, the pressure, the rhythm. The resident was attentive, uncertain, the combination of eagerness and terror that marked the early years of medical training. Sarah adjusted the resident's hand position. She said something Cassiel could not hear through the glass. The resident tried again. Sarah nodded.
 
 Cassiel watched.
 
@@ -266,13 +262,11 @@ The resident tried the compression again. Sarah watched. The resident's rhythm s
 
 Cassiel removed her hand from the glass. She turned and walked down the corridor, past the waiting room — refurbished now, the orange plastic chairs replaced by blue upholstered ones, but still the same room, still carrying the same frequency of the stranded and the hopeful — and she pushed through the front doors and stepped into the parking lot.
 
-The sky above Queens was the particular shade of urban dark she had memorized decades ago — never truly black, always tinged with the reflected light of eight million lives. The March wind came off the water with a sharpness that would have made her eyes sting if she had not learned, long ago, to stop noticing.
+The sky above Queens was the shade of urban dark she had memorized decades ago — never truly black, always tinged with the reflected light of eight million lives. The March wind came off the water with a sharpness that would have made her eyes sting if she had not learned, long ago, to stop noticing.
 
 She noticed.
 
 The cold bit her cheeks and her ears and the exposed strip of skin at her wrists, and she let it. She stood in the parking lot of the hospital where she had whispered three syllables to a young doctor forty-one years ago, and she let the cold arrive and stay, because feeling it was the same as being here, and being here was the only honest thing she knew how to do.
-
-<!-- AGENT:NOTE — Cassiel observing Sarah Morrison closes the loop on Ch. 1-2's setup; Sarah's philosophy alive and propagating. Cassiel's decision is building through observation, not argument — she's finding her answer by witnessing what her work has produced. -->
 
 ---
 
@@ -319,7 +313,3 @@ The chemical sweetness of perchloroethylene drifted up through the floorboards. 
 The work continued.
 
 Cassiel sat in the dark and let it.
-
-<!-- AGENT:NOTE — Cassiel's decision rejects all faction frameworks. She doesn't choose activism (Sariel), retirement (Metatron), reform (Sandalphon), or defection (Azrael). She chooses presence — the Angel of Solitude's answer, consistent with her nature established in Ch. 1. The letter addressed to Gabriel is a private act, not a political one. Haniel's note provides the framing but not the answer; Cassiel finds the answer by watching Sarah Morrison. Coordinates with CHARACTER_DEVELOPMENT.md (Cassiel's arc: from exhausted compliance to chosen commitment), OVERARCHING_NARRATIVE.md (ERA 4 conclusion, political landscape established for ERA 5). -->
-
-<!-- CONTINUITY:NOTE — March 2026. Cassiel: 241 years of service. Apartment on 37th Avenue, Queens, above dry cleaner. Gabriel died 2025 (heart attack at desk, 237 years of service). Azrael appointed Regional Administrator (replacing Gabriel). Sariel leading Interventionists (left Reformers after school shooting). Sandalphon advocating reform from within. Metatron offering promotion/neutralization. Haniel: Silent One, hasn't spoken in 300 years. Cascade-7: seven margin cases, same radius, same week. Sarah Morrison: now 72, semi-retired, still teaching at the hospital. St. Michael's Hospital renamed (absorbed into health system). Cassiel declines promotion, stays in field. -->

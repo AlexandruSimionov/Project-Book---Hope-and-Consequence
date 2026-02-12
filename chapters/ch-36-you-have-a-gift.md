@@ -26,7 +26,7 @@ She had survived. This was a fact she carried the same way she carried the noteb
 
 The remission had held. Five years now. The oncologist said *cured* in the careful, hedged way oncologists say it, surrounded by qualifiers and statistics and the professional awareness that the body is a system of probabilities, not certainties. Sara understood this better than most eleven-year-olds understood anything. She understood that her body had betrayed her once and might do so again, that the cells dividing inside her right now were doing so according to instructions that had already proven themselves capable of error, and that the difference between her being here — healthy, energetic, carrying a box of crayons into a hospital elevator — and her being in one of those rooms again was a matter of molecular luck.
 
-She did not resent the luck. She felt grateful for it, in a way that was so large and so difficult to articulate that it came out as action rather than words. She volunteered. She visited. She sat with scared kids and did not tell them it would be okay, because she had been a scared kid and she remembered how hollow *okay* sounded from adults who were not the ones with the IV in their arm. Instead she colored with them, or read to them, or simply sat and said, "This part sucks," and let the honesty do the work that reassurance couldn't.
+She did not resent the luck. The gratitude was so large and so difficult to articulate that it came out as action rather than words. She volunteered. She visited. She sat with scared kids and did not tell them it would be okay, because she had been a scared kid and she remembered how hollow *okay* sounded from adults who were not the ones with the IV in their arm. Instead she colored with them, or read to them, or simply sat and said, "This part sucks," and let the honesty do the work that reassurance couldn't.
 
 Marcus held the elevator door. Sara stepped in.
 
@@ -38,11 +38,9 @@ Marcus pressed 3. He looked at his daughter — small for eleven, still carrying
 
 The elevator opened. Sara walked out. Marcus followed, carrying the picture books, watching his daughter move down the corridor with the purposeful stride of someone who knew exactly where she was going and why.
 
-<!-- AGENT:NOTE — Sara's POV establishes her as a connector: she catalogues human needs, she acts on specifics, she brings the experiential knowledge of illness into the caregiving role. Her notebook is the human analogue of the angel case files — tracking individuals, understanding what each person needs. -->
-
 ---
 
-Room 312 held a boy named Ethan who had a broken femur from a fall off a playground structure and who was, in the specific taxonomy of pediatric misery, at the intersection of *bored*, *scared*, and *itchy* — the cast went from his hip to his knee and the skin beneath it had developed the particular persistent itch that no amount of repositioning or prescribed antihistamines could fully address.
+Room 312 held a boy named Ethan who had a broken femur from a fall off a playground structure and who was, in the specific taxonomy of pediatric misery, at the intersection of *bored*, *scared*, and *itchy* — the cast went from his hip to his knee and the skin beneath it had developed the persistent itch that no amount of repositioning or prescribed antihistamines could fully address.
 
 "Hey," Sara said. She set the box on the chair by the window. "I'm Sara. I come on Saturdays."
 
@@ -142,7 +140,7 @@ When she closed the notebook, she looked at Sara. The searchlight again, but sof
 
 "You have a gift for this work," Sarah said.
 
-The sentence landed in the room the way certain sentences land — not loudly, not dramatically, but with a weight that rearranged the air around it, that made the coffee maker's dripping and the hallway's hum and the fluorescent buzz all recede for a moment, leaving only the words and the space they occupied. Sara did not respond immediately. She was not the kind of child who deflected compliments or blushed or said *thank you* out of social reflex. She was the kind of child who considered things, who held words up to the light the way she held up the heart-shaped coloring pages, examining them for accuracy.
+The sentence landed in the room the way certain sentences land — not loudly, not dramatically, but with a weight that rearranged the air around it, that made the coffee maker's dripping and the hallway's hum and the fluorescent buzz all recede for a moment, leaving only the words and the space they occupied. Sara did not respond immediately. She was not the kind of child who deflected compliments or blushed or said *thank you* out of social reflex. She was the kind of child who considered things, who held words up to the light and examined them for accuracy.
 
 "My dad says his grandmother told him angels would protect our family," Sara said.
 
@@ -156,11 +154,11 @@ And now a girl named Chen was sitting in her teaching lounge telling her about a
 
 *Rosa Chen.*
 
-The name surfaced like a stone thrown into still water, rising from the bottom where it had rested for forty-four years. A hospital in Queens. Three AM. January 1985. A seventy-one-year-old woman whose heart had been fibrillating for eighteen minutes. The nurses exchanging the look that meant *it's time*. The defibrillator's dental whine. And the thing she could not explain — the whisper that was not a whisper, the impulse that came from somewhere outside her own exhaustion, the voice that said *try once more*.
+The name surfaced like a stone thrown into still water, rising from the bottom where it had rested for forty-four years. A hospital in Queens. Three AM. March 1985. A seventy-one-year-old woman whose heart had been fibrillating for eighteen minutes. The nurses exchanging the look that meant *it's time*. The defibrillator's dental whine. And the thing she could not explain — the whisper that was not a whisper, the impulse that came from somewhere outside her own exhaustion, the voice that said *try once more*.
 
 Rosa Chen. She had saved a woman named Rosa Chen.
 
-Sarah looked at Sara. At the dark hair, the sharp eyes, the small hands that held the notebook with the careful grip of someone who understood that the things you recorded were the things you could act on. She looked at Marcus in the doorway, who was tall and angular and had the particular distracted intelligence of a man who thought in systems, who saw the connections between things the way an engineer sees the load-bearing walls in a building.
+Sarah looked at Sara. At the dark hair, the sharp eyes, the small hands that held the notebook with the careful grip of someone who understood that the things you recorded were the things you could act on. She looked at Marcus in the doorway, who was tall and angular and had the distracted intelligence of a man who thought in systems, who saw the connections between things the way an engineer sees the load-bearing walls in a building.
 
 She did not make the connection explicitly. The math was there — Chen, the name, the grandmother, the hospital, the story about angels. But Sarah Morrison was a scientist, and scientists did not build conclusions from coincidences, and the probability that this particular child was the granddaughter of that particular patient was one data point in a lifetime of data points and could not be treated as more than that.
 
@@ -173,8 +171,6 @@ She said it simply, without emphasis, without the weight of revelation. She said
 Sara looked at her. Marcus, in the doorway, looked at her.
 
 "Would you like some coffee?" Sarah asked Marcus. "The coffee here is terrible. That's a recommendation, not a warning."
-
-<!-- AGENT:NOTE — Sarah does NOT consciously make the connection between Rosa Chen and Sara. The warmth she feels is real but uninterpreted — the reader sees the chain; the characters don't. This maintains the novel's commitment to connections that are visible only from the narrative's bird's-eye view. The "terrible coffee" callback echoes Chapter 2 (St. Michael's break room). -->
 
 ---
 
@@ -216,7 +212,7 @@ Sarah's hands, which had been wrapped around her coffee mug, went still. She was
 
 "Queens," she said.
 
-"Queens. St. Michael's Hospital. January 1985." Marcus paused. "My grandmother's name was Rosa Chen."
+"Queens. St. Michael's Hospital. March 1985." Marcus paused. "My grandmother's name was Rosa Chen."
 
 The room was very quiet. The coffee maker dripped. The fluorescent lights buzzed. Somewhere on the floor below, a child was crying, and somewhere else a nurse was laughing, and the hospital did what hospitals did — held the crying and the laughing in the same architecture, the same corridors, the same recycled air.
 
@@ -303,7 +299,3 @@ Marcus drove. The city moved around them. Somewhere behind them, in a teaching l
 She did not know what to do with this. She set down the mug. She picked up the journal. She went back to work.
 
 Outside, the city continued in its ordinary way, and the chain that connected Rosa Chen in a hospital bed in 1985 to Sara Chen in a volunteer's notebook in 2029 was invisible to everyone in it — to Sarah, who had felt it but could not name it; to Marcus, who had named it but could not feel it; to Sara, who carried it without understanding it; and to the woman who had started it, Rosa, who had died six months after the night her heart restarted and who had spent those six months telling her daughter about the light she had seen and the boy she had been shown and the angels who would protect him, a story that had traveled forward through time the way all the most important stories travel — not through proof, but through repetition, not through belief, but through love.
-
-<!-- AGENT:NOTE — The chain: Rosa Chen (1985, patient) → Marcus's mother Lin (told the angel story) → Marcus (carries story without believing) → Sara (who will become a doctor and, in 2045, save Cassiel Williams). Sarah Morrison is the unknowing anchor — she saved Rosa and will, in her final years, train Sara. The connection is explicit for the reader but experienced by the characters as coincidence (Sarah), half-belief (Marcus), and a child's open attention (Sara). -->
-
-<!-- CONTINUITY:NOTE — Sara Chen age 11 in 2029 (born ~2018). Diagnosed with ALL at age 6 (~2024), in remission 5 years. Marcus Chen age 43 in 2029. Wife: Amira (Hassan). Dr. Sarah Morrison age 72, semi-retired, emeritus at Philadelphia Children's Hospital. Rosa Chen saved January 1985, Queens, St. Michael's Hospital, age 71. Rosa died ~6 months after save (~mid-1985). Marcus's mother Lin told the angel story. Sara volunteers every other Saturday, 4 months running. Hospital: Philadelphia Children's Hospital, 5th floor teaching lounge. The mug: WORLD'S OKAYEST DOCTOR. Callback: terrible coffee (Ch. 2). Sara's notebook tracks patient preferences. Dr. Sarah's philosophy: "Try once more. You never know what a life might do." -->

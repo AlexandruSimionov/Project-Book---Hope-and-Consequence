@@ -1,6 +1,6 @@
 # Chapter 2: Try Once More
 
-**Queens, New York — January 1985**
+**Queens, New York — March 1985**
 
 ---
 
@@ -18,7 +18,7 @@ Sarah had gone home after Mrs. Patterson and sat in her apartment for forty-five
 
 She did not find this thought comforting.
 
-Now it was Saturday. Another shift. The overnight, because third-year residents lived on the overnight the way certain deep-sea fish lived in the dark — not happily, but completely, their bodies adapted to the pressure and the absence of light. Her feet ached in the way that meant the arches were giving out, not the pleasant tiredness of a long walk but a structural complaint, the bones and tendons sending up formal grievances. Her lower back had entered a negotiation with the rest of her body, and the terms were not favorable.
+Now it was Saturday. Another shift. The overnight, because third-year residents lived on the overnight the way certain deep-sea fish lived in the dark — not happily, but completely, their bodies adapted to the pressure and the absence of light. Her feet ached in a manner that meant the arches were giving out, not the pleasant tiredness of a long walk but a structural complaint, the bones and tendons sending up formal grievances. Her lower back had entered a negotiation with the rest of her body, and the terms were not favorable.
 
 The monitor at the end of the hall beeped. It had been beeping all night. Mrs. Chen — Rosa Chen, seventy-one, admitted six hours ago with acute myocardial infarction, anterior wall, the kind of heart attack that killed people more often than it didn't. They'd stabilized her. Then she'd destabilized. Then they'd stabilized her again. The heart was a muscle, Sarah reminded herself, and like all muscles it could be pushed past its limit, and when that happened no amount of electricity or chemistry could undo the fact that the tissue had simply quit.
 
@@ -158,7 +158,7 @@ But Sarah's feet hurt and her hands were still shaking and the coffee she needed
 
 Sarah turned and walked toward the break room.
 
-Behind her, the woman in the dark coat sat very still, watching the hallway where Sarah had been, her expression unchanged. After a moment, she closed her eyes and leaned her head back against the wall, and if anyone had been watching — which no one was, because it was three-thirty in the morning and the waiting room at St. Michael's was the kind of place where no one watched anything — they might have thought she was praying, or resting, or simply enduring the particular weight of a long night in a place where the distance between living and dying was measured in minutes and milligrams and the willingness of one exhausted woman to try once more.
+Behind her, the woman in the dark coat sat very still, watching the hallway where Sarah had been, her expression unchanged. After a moment, she closed her eyes and leaned her head back against the wall, and if anyone had been watching — which no one was, because it was three-thirty in the morning and the waiting room at St. Michael's was the kind of place where no one watched anything — they might have thought she was praying, or resting, or simply enduring the weight of a long night in a place where the distance between living and dying was measured in minutes and milligrams and the willingness of one exhausted woman to try once more.
 
 ---
 
@@ -179,7 +179,3 @@ She did not know yet that this sentence would become a kind of scripture, passed
 She knew none of this. She was twenty-eight years old, and her feet hurt, and the coffee was terrible, and someone was alive who should not have been, and that was enough.
 
 She finished the coffee. She set the cup in the sink. She went back to work.
-
-<!-- AGENT:NOTE — This chapter establishes Sarah Morrison's core philosophy ("try once more") and her foundational experience. The "whisper" is kept ambiguous per the reader's POV — Sarah's scientific mind registers it as intuition or exhaustion, not as supernatural. Cassiel is present in the waiting room but unidentified; the connection is invisible from Sarah's limited perspective. Rosa Chen's identity as Marcus's grandmother is withheld from Sarah's knowledge — she's simply a patient. The final paragraphs shift to medium narrative distance to plant the thematic seeds of consequence without violating Sarah's limited POV (framed as what she "did not know"). -->
-
-<!-- CONTINUITY:NOTE — Sarah age 28 in 1985 (birth year ~1957). St. Michael's Hospital, Queens. Rosa Chen age 71. Code duration: 18+ minutes. Attending: Dr. Kessler (went home at midnight). Nurses: Denise (charge nurse, 20 years at St. Michael's), Linda (younger nurse, ~24). Sarah is a third-year resident. Two patient deaths earlier in the week: Mr. Aguilar (Tuesday, aortic dissection, age 63) and Mrs. Patterson (Thursday, pulmonary embolism). Rosa's braid detail and sewing/cooking callus established. Break room bulletin board and cartoon established as environmental detail. -->

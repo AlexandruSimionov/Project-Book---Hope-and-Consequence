@@ -10,11 +10,11 @@ He'd been at the shop since seven. Emiliano's Auto, on Utica Avenue, a two-bay g
 
 Emiliano had not asked questions. That was the thing about Emiliano — he had the intelligence to understand complicated situations and the wisdom not to discuss them. He'd handed David a set of coveralls, shown him the hydraulic lift, and said *you break it, you fix it*. The first week David had rebuilt a transmission. The second week Emiliano had raised his pay by two dollars an hour. They had not discussed it. There was nothing to discuss.
 
-Six years. David was thirty-two. He had spent fifteen years in prison, which meant he had spent nearly half his life inside, which was a fraction he did not calculate because calculating it would require looking at the division and the division would require looking at the remainder and the remainder was everything he had missed — his twenties, his mother's decline, the neighborhood's changes, the ordinary accumulation of a life that other thirty-two-year-olds had and that he was building from nothing, brick by brick, the way you build a house on a lot where another house used to stand.
+Six years. David was thirty-two. He had spent eight years in prison, which meant he had spent a quarter of his life inside, which was a fraction he did not calculate because calculating it would require looking at the division and the division would require looking at the remainder and the remainder was everything he had missed — his twenties, his mother's decline, the neighborhood's changes, the ordinary accumulation of a life that other thirty-two-year-olds had and that he was building from nothing, brick by brick, the way you build a house on a lot where another house used to stand.
 
 He worked on the Camry until noon. He ate lunch at the Jamaican place — rice and peas and oxtail, the food heavy and good, the kind of food that sat in your stomach and said *you are here, you are fed, you are a body that needs things and is getting them*. He ate at the counter by the window and watched Utica Avenue through the glass, the traffic and the pedestrians and the particular rhythm of a Brooklyn block at midday, everyone going somewhere, the motion constant and directionless, like blood in a vein.
 
-A kid came in for an oil change. Seventeen, maybe eighteen. He had the look — the new shoes, the phone, the posture of a boy who had recently been given something by people whose gifts came with invoices. David recognized the look because he had worn it at that age. He changed the oil and said nothing about the look. It was not his business. He had opinions about what the look meant and where it led, opinions informed by fifteen years of staring at a ceiling and understanding, with the glacial patience of a man who had nothing to do but think, exactly how he had ended up in that cell. But opinions were not the same as authority, and David did not have authority over anyone's life except his own, and his own was enough.
+A kid came in for an oil change. Seventeen, maybe eighteen. He had the look — the new shoes, the phone, the posture of a boy who had recently been given something by people whose gifts came with invoices. David recognized the look because he had worn it at that age. He changed the oil and said nothing about the look. It was not his business. He had opinions about what the look meant and where it led, opinions informed by eight years of staring at a ceiling and understanding, with the glacial patience of a man who had nothing to do but think, exactly how he had ended up in that cell. But opinions were not the same as authority, and David did not have authority over anyone's life except his own, and his own was enough.
 
 He finished at five. He washed his hands — the grease never came all the way off; it lived in the creases of his knuckles and under his nails, a permanent residue that marked him as someone who worked with his hands, which was fine, which was more than fine, which was the physical evidence that he was earning his place in the world through labor that asked nothing of him except competence and showed up every morning like a friend who didn't need to be impressed.
 
@@ -24,7 +24,7 @@ He walked home. Fourteen blocks, the same route every day. Down Utica to Church,
 
 The evening was cool. November in Brooklyn — the light going early, the sky turning the color of pewter, the streetlights coming on one by one like a conversation starting up. David walked with his hands in his jacket pockets, his shoulders loose, his gait unhurried. He did not hurry. Hurrying attracted attention, and attention was a resource he spent carefully, having learned in prison that the safest place in any room was the place no one was looking.
 
-He passed the church on Church Avenue. He went there sometimes. Not every Sunday — not on any schedule. He was not religious. He did not believe in God with the conviction that belief seemed to require, the surrender to a system he could not verify. But he liked the building. He liked the quiet of it, the way the pews held silence the way a cup holds water. He liked the pastor, a woman named Reverend Clarke who had a handshake that could crack walnuts and who never asked him about his past, which was its own kind of sermon. He liked the community — the potlucks and the clothing drives and the way people in the church looked at him and saw a man, not a record.
+He passed the church on Church Avenue. He went there sometimes. Not every Sunday — not on any schedule. He was not religious. He did not believe in God with the conviction that belief seemed to require, the surrender to a system he could not verify. But he liked the building. He liked the quiet of it, the way the pews held silence — like a cup holds water. He liked the pastor, a woman named Reverend Clarke who had a handshake that could crack walnuts and who never asked him about his past, which was its own kind of sermon. He liked the community — the potlucks and the clothing drives and the way people in the church looked at him and saw a man, not a record.
 
 He walked past the church. He walked past the bodega where he bought his coffee in the morning. He walked past the playground where, last summer, he had spent an afternoon helping a neighbor's kid fix a bike chain, the two of them crouched on the sidewalk with grease on their fingers, the kid holding the flashlight wrong and David not correcting him because the kid was trying and trying was the thing that mattered.
 
@@ -38,7 +38,7 @@ The window came down.
 
 "D."
 
-He knew the voice. Three syllables — one letter, the rising inflection of someone who expected a response — and the fifteen years of prison that separated him from the last time he'd heard it collapsed like a folding chair.
+He knew the voice. Three syllables — one letter, the rising inflection of someone who expected a response — and the eight years of prison that separated him from the last time he'd heard it collapsed like a folding chair.
 
 Terrence Walker. Terry. Who had been twenty when David was eighteen, who had been the one to hand David the gun on the night that ended David's first life, who had somehow avoided prosecution, who had — David learned later, in prison, through the network of information that flowed through the facility the way water flows through pipes — cooperated with the police in exchange for immunity, which meant that Terrence Walker was the reason David had gone to prison, which was a fact David carried in the same compartment where he kept other immovable things, things that could not be changed and therefore did not warrant the energy of anger.
 
@@ -78,7 +78,7 @@ Terrence's expression shifted. Not remorse — recalculation. The smile stayed, 
 
 "Alright. I hear you. But you still owe—"
 
-"I don't owe you anything. I did my time. All fifteen years of it. That's the debt. It's paid."
+"I don't owe you anything. I did my time. All eight years of it. That's the debt. It's paid."
 
 The man in the back seat shifted. David heard leather creak. He kept his eyes on Terrence.
 
@@ -94,7 +94,7 @@ He heated leftover rice. He ate it standing up. He washed the dish. He sat on th
 
 They would come back. He knew this the way he knew the Camry needed an alternator — by listening to the sound of the thing, the hesitation, the drag, the mechanical certainty that a system under stress would eventually fail. Terrence Walker did not accept *no*. Terrence Walker interpreted *no* as *not yet*, and *not yet* as a timeline to be managed, and the management would escalate, and the escalation had a trajectory that David could map from where he sat because he had seen it before, had been inside it before, had been the trajectory.
 
-The options were binary and both were bad. Fight back — which meant violence, which meant police, which meant a Black man with a record in a confrontation with other Black men, which meant a system that would not look at his six years of clean living and see redemption but would look at his fifteen years of incarceration and see a pattern, and patterns were easier to sentence than people. Or run — which meant leaving the shop, the apartment, the barber, the church, the neighbor's kid with the bike, the fourteen-block walk, the three keys on the ring, the entire small architecture of a life he had built from nothing over six years.
+The options were binary and both were bad. Fight back — which meant violence, which meant police, which meant a Black man with a record in a confrontation with other Black men, which meant a system that would not look at his six years of clean living and see redemption but would look at his eight years of incarceration and see a pattern, and patterns were easier to sentence than people. Or run — which meant leaving the shop, the apartment, the barber, the church, the neighbor's kid with the bike, the fourteen-block walk, the three keys on the ring, the entire small architecture of a life he had built from nothing over six years.
 
 He chose neither. He went to bed. He set the alarm for six. He got up and went to work.
 
@@ -126,7 +126,7 @@ They left. The younger man's jaw was tight. The third man hadn't spoken. Terrenc
 
 "Last time, D. Think about what you're doing."
 
-"I've thought about it for fifteen years. I'm done thinking."
+"I've thought about it every day since I went in. I'm done thinking."
 
 The SUV pulled away. David set down the wrench and went back under the Honda. His hands were steady. His heart rate was not.
 
@@ -148,7 +148,7 @@ The knife came out. Not a display — not a threat held at arm's length for dram
 
 "This is from Terry," the tall one said. "He said you'd understand."
 
-David didn't move. Not from paralysis — from the specific, trained stillness of a man who had spent fifteen years learning that in moments of violence, the body's first instinct was wrong. The instinct said fight. The instinct said run. Fifteen years in a facility where both responses got you killed had taught him a third option: stay still, assess, wait for the opening.
+David didn't move. Not from paralysis — from the specific, trained stillness of a man who had spent eight years learning that in moments of violence, the body's first instinct was wrong. The instinct said fight. The instinct said run. Eight years in a facility where both responses got you killed had taught him a third option: stay still, assess, wait for the opening.
 
 There was no opening.
 
@@ -244,7 +244,7 @@ Students were running out. Screaming. The screaming was different from the noise
 
 He went through the doors.
 
-The hallway was fluorescent-lit and empty. Lockers on both sides, gray metal, some hanging open. The floor was linoleum, scuffed, the same institutional flooring that David had walked on for fifteen years at Jessup, and the smell was the same too — industrial soap and bodies and the faint mineral tang of old building — and for one dislocating second he was in both places at once, the hallway at Henderson and the corridor at Jessup, the same light, the same floor, the same feeling of a contained space in which violence was happening.
+The hallway was fluorescent-lit and empty. Lockers on both sides, gray metal, some hanging open. The floor was linoleum, scuffed, the same institutional flooring that David had walked on for eight years at Jessup, and the smell was the same too — industrial soap and bodies and the faint mineral tang of old building — and for one dislocating second he was in both places at once, the hallway at Henderson and the corridor at Jessup, the same light, the same floor, the same feeling of a contained space in which violence was happening.
 
 A third shot. Down the hall. To the right. The sound was coming from inside a classroom, the door half-open, and David could see movement through the narrow window in the door — a shape, a figure, a person holding something.
 
@@ -256,7 +256,7 @@ He went through the door.
 
 The classroom was a biology lab. Posters of the periodic table and the human circulatory system on the walls. Lab tables with black tops. Chairs overturned. Students on the floor, under the tables, their faces white, their mouths open. Three people lying still, and the stillness was the wrong kind — not hiding, not ducking, but the stillness that comes after, the stillness of bodies that have stopped.
 
-The shooter was a boy. Sixteen, maybe seventeen. He was standing near the teacher's desk with a handgun — a pistol, semiautomatic, David recognized the shape from fifteen years of proximity to weapons — and the boy's face was not the face of rage or madness. It was blank. Flat. The face of a person who had gone somewhere inside themselves where the world was not real, where the people on the floor were not people, where the gun in his hand was an extension of a logic that had no room in it for consequence.
+The shooter was a boy. Sixteen, maybe seventeen. He was standing near the teacher's desk with a handgun — a pistol, semiautomatic, David recognized the shape from eight years of proximity to weapons — and the boy's face was not the face of rage or madness. It was blank. Flat. The face of a person who had gone somewhere inside themselves where the world was not real, where the people on the floor were not people, where the gun in his hand was an extension of a logic that had no room in it for consequence.
 
 David hit him low.
 
@@ -315,7 +315,3 @@ The math of salvation was never clean. You saved who you could. You lost who you
 He closed his eyes. He slept.
 
 In his sleep he dreamed about water. Blue water, bright and still. A pool with no one in it. The sun coming through the surface in shafts that reached all the way to the bottom, where the painted blue floor held the light the way a hand holds a stone, and the stone was warm, and it had always been warm, and it would stay warm long after the hand let go.
-
-<!-- AGENT:NOTE — David's chapter connects to Ch. 9 (The Pool): the pool save at age 12 is the foundational event that defines his instinct. Ray's line "Too soft — gonna get you killed" from Ch. 9 is directly referenced. The "warm stone" motif from Ch. 9 returns in the dream at the end. The "straight line between seeing and doing" echoes Ch. 9's "clean geometry." David's fifteen years at Jessup connects to Ch. 7 (Thomas Reed's chapter) — Thomas prosecuted him (referenced in Ch. 7 closing). The Jessup riot of 2008, where DeShawn's father died (Ch. 23), also occurred during David's incarceration — David may have witnessed it. The school shooting connects to Sariel's arc (Ch. 5 agent note: his 2024 failure). David's "I just moved" echoes Cassiel's observation in Ch. 9: "He just... chose." CONTINUITY: David born ~1992, now 32. Released from Jessup after 15 years (~2019). At Emiliano's Auto 6 years. Stabbing: right side below ribs, liver involvement. School shooting: 3 killed, David tackles shooter, reopens wound. Henderson High School, East Flatbush area. -->
-
-<!-- CONTINUITY:NOTE — David's timeline: born ~1992, incarcerated at ~17 (2009), released ~2019 after 15 years. The pool save was 2004 (age 12). Cousin Ray from Ch. 9 — status unknown by 2024. Emiliano is a different cousin. Mother died during incarceration. Address: East 48th St near Church Ave, East Flatbush, Brooklyn. Shop: Emiliano's Auto, Utica Avenue. Stab wound: right side below ribs, liver nick, external oblique torn, 37 stitches. School shooting: Henderson High School. Shooter: teenage boy with semiautomatic pistol. Three killed. David's injuries: reopened stab wound + graze on left arm from deflected round. Hospital: Kings County. Nine-day stay. Terrence Walker: the man who gave David the gun originally, cooperated with police, now trying to recruit David again. -->

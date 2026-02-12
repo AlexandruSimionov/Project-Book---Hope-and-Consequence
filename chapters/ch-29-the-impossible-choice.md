@@ -54,8 +54,6 @@ Gabriel had been quiet for a long time. Long enough for Cassiel to hear the laun
 
 That had been two hours ago. Now she was walking south on Roosevelt, her phone buzzing with the updates of five angels managing the six other threads of a seven-headed crisis, and the city was waking up around her with the oblivious persistence of a place that did not know it was a battlefield.
 
-<!-- AGENT:NOTE — Establishing Cassiel's coordination network and the simultaneity of the Cascade-7 crisis; Protocol 12.3 violation is escalation of her arc from solitary to connected; coordinates with CHARACTER_DEVELOPMENT.md -->
-
 ---
 
 She could see the web. That was the part no one told you about — the part the orientation materials and the Subtlety Protocols and the margin case files all failed to capture. When you worked cases long enough, when you held the files in your head and walked the neighborhoods and watched the humans whose futures balanced on the knife-edge of a single choice, you began to see the connections. Not metaphorically. Literally. She saw them the way she saw telephone wires, as lines of consequence strung between lives that did not know they were tethered.
@@ -81,8 +79,6 @@ The girl had not responded to any of them. She was beyond the margin. Or the mar
 Seven threads. All tangled. All reaching their crisis points in the same six-day window, and Cassiel could see the web connecting them — could trace the lines from Thomas's corruption to the budget cuts to the counselor positions to the girl with the gun, from Marcus's technology to the defense contractor to the weapons that would arm conflicts that would create refugees that would test the systems that Keisha was trying to build, from David's stabbing to his presence in the school hallway to the three lives he would save and the three he would not — and she understood, with a clarity that felt like being struck, that this was not a stress test. This was the system revealing its own architecture. The Cascade-7 protocol had not created these connections. It had illuminated connections that already existed. It had shown her what the world actually looked like when you pulled back far enough to see the whole thing at once.
 
 It looked like a web. It looked like a net. It looked like a trap.
-
-<!-- AGENT:NOTE — Seven cases enumerated with their interconnections visible through Cassiel's POV; the web metaphor is her realization of systemic interconnection; coordinates with OVERARCHING_NARRATIVE.md (Cascade-7 as convergence event) -->
 
 ---
 
@@ -186,8 +182,6 @@ Cassiel stopped running. She was on the sidewalk on Vernon Boulevard, breathing 
 
 She stood on the sidewalk and she felt the water close over her head.
 
-<!-- AGENT:NOTE — Cassiel's crisis mirrors drowning imagery (Marcus's pool incident, David's save); her overwhelm is physical, visceral; coordinates with SITUATIONAL_INTERPRETATION.md (time pressure, emotional contamination) -->
-
 ---
 
 The choice arrived not as a decision but as an exhaustion.
@@ -233,8 +227,6 @@ Thomas would die by suicide in a federal prison in 2033. Cassiel would learn thi
 And three people died in the school. A teacher, forty-one, who had stepped in front of a student. A sophomore, fifteen, who had been in the wrong hallway. A janitor, sixty-three, who had been mopping a floor. Three people who were not margin cases, who were not in any file, who did not have angels assigned to them, whose lives ended because a girl brought a gun to school and fired it before David Okonkwo could cover three blocks on foot with a knife wound in his stomach.
 
 Five successes. Two failures. The math.
-
-<!-- AGENT:NOTE — Results enumerated: five saves, two losses. Each outcome contains its own shadow; coordinates with OVERARCHING_NARRATIVE.md (Cascade-7 results) and CONTINUITY.md (Thomas dies 2033, three dead in shooting: teacher 41, sophomore 15, janitor 63) -->
 
 ---
 
@@ -288,7 +280,7 @@ Cassiel looked at Azrael. He was not looking at her. He was looking at his coffe
 
 "The sentence doesn't expire." He picked up his coffee again. This time he drank it. The grimace that crossed his face suggested the coffee was as bad as the diner's neon implied. "The math worked in 2001. It works now. It will work next year and the year after. The system will produce net positive outcomes and people will die in the margins between the numbers, and someone will tally the results and call it success, and someone else will write the names of the dead in a notebook and call it honesty, and both of them will be right, and neither of them will be able to sleep."
 
-Cassiel stared at her coffee. The surface was still, reflecting the overhead light in a pale disc. She thought about the janitor. Sixty-three. Mopping a floor. She did not know his name. She would learn it later. She would carry it the way Azrael carried his 11,851, the way all field angels carried the ones they could not save — not as a burden chosen but as a weight accrued, the slow accumulation of names that settled into the body like calcium into bone, becoming part of the structure, becoming load-bearing.
+Cassiel stared at her coffee. The surface was still, reflecting the overhead light in a pale disc. She thought about the janitor. Sixty-three. Mopping a floor. She did not know his name. She would learn it later. She would carry it the way Azrael carried his 11,851, as all field angels carried the ones they could not save — not as a burden chosen but as a weight accrued, the slow accumulation of names that settled into the body like calcium into bone, becoming part of the structure, becoming load-bearing.
 
 "I chose to step back," she said. "I had the option. I could have gone to the school. I could have appeared. I could have taken the gun."
 
@@ -323,5 +315,3 @@ She sat. It was what she did. It was what she had always done. The Angel of Soli
 She did not know. She sat with the not-knowing.
 
 Outside, the city darkened and did not stop.
-
-<!-- AGENT:NOTE — Diner scene mirrors Azrael/Uriel 9/11 conversation (Ch 8); "the math works but it's horrifying" repeated 23 years later; Cassiel's near-touch with Azrael marks her movement from solitude toward connection while maintaining her nature; coordinates with CHARACTER_DEVELOPMENT.md (Cassiel's arc: isolation to connection) and CONTINUITY.md (239 years of service, 2024) -->

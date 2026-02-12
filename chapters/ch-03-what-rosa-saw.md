@@ -1,12 +1,12 @@
 # Chapter 3: What Rosa Saw
 
-**March 14, 1985 — St. Bridget's Hospital, Queens, New York**
+**March 14, 1985 — St. Michael's Hospital, Queens, New York**
 
 ---
 
 The heart monitor flatlined at 3:07 AM, and Rosa Chen's body convulsed once on the table, then went still.
 
-Dr. Sarah Kaplan — twenty-eight, third-year resident, running on four hours of sleep across two days — looked at the clock, then at the nurse. The nurse, a Filipina woman named Grace whose hands never shook, was already pulling back. Eighteen minutes of compressions. The ribs had given at minute six, that awful wet crunch that Sarah still heard in her dreams sometimes. The epinephrine had done nothing. The defibrillator had done nothing. Eighteen minutes was long past the point where you called it.
+Dr. Sarah Morrison — twenty-eight, third-year resident, running on four hours of sleep across two days — looked at the clock, then at the nurse. The nurse, Denise, who had been at St. Michael's for twenty years and whose hands never shook, was already pulling back. Eighteen minutes of compressions. The ribs had given at minute six, that awful wet crunch that Sarah still heard in her dreams sometimes. The epinephrine had done nothing. The defibrillator had done nothing. Eighteen minutes was long past the point where you called it.
 
 Sarah opened her mouth to say the words.
 
@@ -16,19 +16,17 @@ Later, she would describe it as a voice, though it wasn't a voice. It was more l
 
 She reached for the paddles.
 
-"Doctor," Grace said. Not objecting. Just noting the time.
+"Doctor," Denise said. Not objecting. Just noting the time.
 
 "One more," Sarah said.
 
 The shock jolted Rosa Chen's body off the table by an inch. The monitor shrieked its single note. Then — like a fist unclenching — the line stuttered. Blipped. Found a rhythm.
 
-Grace said, "Oh."
+Denise said, "Oh."
 
 Rosa Chen's heart beat on its own for the first time in eighteen minutes.
 
 ---
-
-<!-- AGENT:NOTE — Vision sequence shifts to present tense for immediacy, locked to Rosa's POV. Returns to past tense when Rosa regains consciousness. -->
 
 Rosa does not know she has died.
 
@@ -84,8 +82,6 @@ Rosa reaches for it — reaches with whatever she is, this bodiless point of att
 
 ---
 
-<!-- AGENT:NOTE — Return to past tense. POV widens slightly from Rosa's close interiority to a more distant third-person narrator for the aftermath/compression sequence. -->
-
 She opened her eyes to fluorescent light and a ceiling made of perforated tiles. Someone was holding her hand. The hand was warm and slightly damp.
 
 "Mrs. Chen?" A young voice. The doctor. "Mrs. Chen, can you hear me?"
@@ -94,7 +90,7 @@ Rosa tried to speak. Her throat was full of gravel. She had been intubated — s
 
 "There were lights," she said.
 
-Dr. Sarah Kaplan looked at the nurse. The nurse, Grace, smiled in the careful way nurses smiled when elderly patients said unusual things. Polite. Bracketing.
+Dr. Sarah Morrison looked at the nurse. The nurse, Denise, smiled in the careful way nurses smiled when elderly patients said unusual things. Polite. Bracketing.
 
 "You're in the hospital, Mrs. Chen. You had a cardiac event. Your heart stopped for eighteen minutes. We brought you back."
 
@@ -120,7 +116,7 @@ Rosa's daughter, Lily, arrived at 6:30 AM. She was thirty-five years old, a real
 
 "I know."
 
-Lily unscrewed the thermos. The congee was plain, with a little ginger and salt, the way Rosa had made it for Lily when she was sick as a child. Lily had learned the recipe without being taught, the way daughters learn things — by watching, by proximity, by the slow osmosis of a shared kitchen.
+Lily unscrewed the thermos. The congee was plain, with a little ginger and salt, the way Rosa had made it for Lily when she was sick as a child. Lily had learned the recipe without being taught — by watching, by proximity, by the slow osmosis of a shared kitchen.
 
 "She says you need a pacemaker," Lily said. "And physical therapy. And a new diet."
 
@@ -301,9 +297,3 @@ And Rosa — who had taught second grade for thirty-eight years, who had graded 
 She had seen the pattern. She could not read it.
 
 But she passed it on.
-
-<!-- AGENT:NOTE — This chapter establishes: (1) Rosa's NDE and vision of Marcus, David saving Marcus, Marcus as scientist, and Cassiel as angel-being; (2) Rosa's daughter Lily (Marcus's mother), age 35 in 1985 (born ~1950); (3) The family mythology "angels will help him"; (4) Thomas Reed as Rosa's former student (1962), who will later become the prosecutor sentencing David; (5) Marcus born 1996, consistent with outline ages (8 in 2004, 28 in 2024); Lily meets Robert Chen after divorcing James, has Marcus at age ~46. -->
-
-<!-- AGENT:NOTE — Continuity items for CONTINUITY.md: Rosa Chen age 71 at death (Sept 22, 1985); cardiac event March 14, 1985; Dr. Sarah Kaplan age 28, third-year resident; Rosa was elementary teacher ~38 years; Thomas Reed in her class 1962; Rosa's daughter = Lily (age 35 in 1985, born ~1950); Lily's first husband = James; Lily later marries Robert Chen; Marcus Chen born 1996; Drowning incident 2004 (Marcus age 8, David age 12); Hospital = St. Bridget's, Queens; Remiel (End of Life angel) present at Rosa's code per outline but not shown from Rosa's POV — only Cassiel glimpsed in vision; Nurse Grace (Filipina) on duty during code -->
-
-<!-- AGENT:NOTE — Foreshadowing planted: (1) Rosa sees Marcus drowning — payoff in drowning chapter; (2) Rosa sees Marcus with membrane/filtration material — payoff in his research arc; (3) Thomas Reed connection — payoff in his prosecution of David; (4) "Angels will help him" — becomes Marcus's family mythology, resurfaces at balcony crisis; (5) Cassiel in waiting room — connects to Chapter 1 opening image -->

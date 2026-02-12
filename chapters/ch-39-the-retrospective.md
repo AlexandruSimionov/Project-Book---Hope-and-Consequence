@@ -42,7 +42,7 @@ He had looked at her then with the amused patience of a man who had spent forty 
 
 He bought seven pieces that afternoon. He commissioned five more. He introduced Elena to a gallery in New York that showed her within the year, and the fire-damaged pieces became the centerpiece of a body of work that critics called "post-disaster sculpture" and Elena called "what survived."
 
-Now the fire pieces stood in their own gallery at the retrospective, lit from below, their blackened surfaces absorbing the warm light and releasing it slowly, the way charcoal absorbs heat and becomes its own source of warmth. Visitors would stand in this room and feel something they could not name — a recognition, maybe, of the way destruction creates as well as destroys. The way a fire that takes everything also makes the surviving things visible in a way they were not before.
+Now the fire pieces stood in their own gallery at the retrospective, lit from below, their blackened surfaces absorbing the warm light and releasing it slowly, the way charcoal absorbs heat and becomes its own source of warmth. Visitors would stand in this room and feel something they could not name — a recognition, maybe, that destruction creates as well as destroys — that a fire which takes everything also makes the surviving things visible in a way they were not before.
 
 Elena left the fire room and walked through galleries four, five, and six. The later work: larger installations, public commissions, pieces that engaged with architecture and site. A wall of reclaimed bricks from a demolished school, arranged in a pattern that, seen from the right angle, resolved into a face. A hanging mobile of shattered windshield glass, the safety glass holding together in its fractured state, turning slowly in the air currents, catching light. An archway built from discarded prosthetic limbs — donated, cleaned, joined — that visitors walked through, surrounded by the evidence of human bodies that had broken and been repaired, the arch itself a passage from one state to another.
 
@@ -92,7 +92,7 @@ Keisha Williams was not supposed to be here tonight. The museum cleaning contrac
 
 She was being paid time-and-a-half, which was the only reason she'd left the house on a Saturday night, leaving Tiana to watch Jaylen and calling DeShawn — who was out, who was always out now, who was twenty-five and living his own life in a way that still surprised her, the way a river surprises you when it changes course — to tell him she'd be home late.
 
-She moved through the gallery with her dust cloth and her spray bottle and the particular invisibility of a cleaning worker at a social event, which was a kind of invisibility she had perfected over decades. She was there and not there. The guests looked at the art and through her, the way you look through a window to see the view without registering the glass.
+She moved through the gallery with her dust cloth and her spray bottle and the invisibility of a cleaning worker at a social event, which was a kind of invisibility she had perfected over decades. She was there and not there. The guests looked at the art and through her, the way you look through a window to see the view without registering the glass.
 
 But Keisha was looking too.
 
@@ -100,7 +100,7 @@ She had been looking at Elena Vasquez's sculptures since the first time she'd cl
 
 She had cleaned around the sculptures every night for three months. She had learned them the way you learn the furniture in a room you clean regularly — by proximity, by repetition, by the slow accumulation of familiarity that comes from being close to something without claiming it. She knew the weight of the key sculpture because she had bumped it once with the vacuum and it hadn't moved. She knew the texture of the fire-damaged pieces because she had dusted them with a soft cloth, running the fabric over the blackened surfaces, feeling the rough grain of oxidized metal through the cotton.
 
-She had not told anyone about this. There was nothing to tell. She was a cleaning woman who looked at art while she cleaned. It was not a story. It was a detail, a small private fact, like the way she hummed to herself in empty hallways or the way she checked the locks twice before leaving.
+She had not told anyone about this. There was nothing to tell. She was a cleaning woman who looked at art while she cleaned. It was not a story. It was a detail, a small private fact, like humming to herself in empty hallways or checking the locks twice before leaving.
 
 But her middle daughter was in art school. Tiana — the girl who had packed her own lunch and brushed her own hair and carried the self-sufficiency of a child who had learned early that help was not always available — was now twenty-three, a junior at the Maryland Institute College of Art, studying sculpture. She worked with found materials. She had told Keisha this, and Keisha had nodded without understanding, and then she had come to work at the museum and seen Elena Vasquez's sculptures and understood. *Found materials.* Things that other people threw away. Things that told the truth because they had no reason to lie.
 
@@ -126,7 +126,7 @@ Thrown them in the dumpster behind the engineering building. The same dumpster t
 
 Found materials. His life's work, found in a dumpster, transformed into art.
 
-He did not say anything. What was there to say? The irony was too large and too strange to compress into a sentence that an eleven-year-old could hold. The filter membranes he had built to save lives in villages he would never visit had been discarded and rescued and transformed into a sculpture that was saving something else — not lives but something adjacent to lives, the thing that made lives worth saving, which was beauty, or meaning, or the capacity to stand in front of an arrangement of metal and membrane and feel the particular hum of recognition that meant a piece of the world had been reorganized into something that told the truth.
+He did not say anything. What was there to say? The irony was too large and too strange to compress into a sentence that an eleven-year-old could hold. The filter membranes he had built to save lives in villages he would never visit had been discarded and rescued and transformed into a sculpture that was saving something else — not lives but something adjacent to lives, the thing that made lives worth saving, which was beauty, or meaning, or the capacity to stand in front of an arrangement of metal and membrane and feel the hum of recognition that meant a piece of the world had been reorganized into something that told the truth.
 
 "It's made of science," Sara said.
 
@@ -154,7 +154,7 @@ Today she had come to the museum because a friend had mentioned the retrospectiv
 
 She stood in front of it and cried, and the crying was not grief exactly. It was recognition. The particular relief of seeing your own condition rendered in a form that was not language, that did not explain or justify or ask for understanding, that simply existed — damaged, upright, holding.
 
-She did not know that the artist who had made this piece had once stood on a roof and considered stepping off it. She did not know that the figure's pose — falling and holding — was an accident of fire rather than a deliberate choice, that Elena had found it in the wreckage and recognized it the way the woman was recognizing it now, as a form that told the truth about what it meant to survive something that had tried to destroy you. She did not know that the school where her sister had done the thing she had done was the same school where a man named David had thrown his body across a hallway, or that David now ran a trade school where her sister's cousin was learning to repair engines, or that any of these facts were connected by anything other than geography and time and the particular cruelty of a world that linked people together without telling them.
+She did not know that the artist who had made this piece had once stood on a roof and considered stepping off it. She did not know that the figure's pose — falling and holding — was an accident of fire rather than a deliberate choice, that Elena had found it in the wreckage and recognized it the way the woman was recognizing it now, as a form that told the truth about what it meant to survive something that had tried to destroy you. She did not know that the school where her sister had done the thing she had done was the same school where a man named David had thrown his body across a hallway, or that David now ran a trade school where her sister's cousin was learning to repair engines, or that any of these facts were connected by anything other than geography and time and the cruelty of a world that linked people together without telling them.
 
 She knew none of this. She stood in the fire room and looked at the sculpture and cried, and that was enough.
 
@@ -218,7 +218,7 @@ The woman looked at him. Her expression was unreadable — or rather, it was rea
 
 "I know. Stay anyway."
 
-She stayed. She stood at the back of gallery seven with her hands in her pockets and her coat too warm and the untouched wine on the pedestal beside her, and she watched a room full of people who did not know they were connected feel the connections anyway — in the art, in the quality of attention that a sculpture demanded, in the particular silence that fell when a person stood in front of something made from discarded things and saw, in the arrangement, something that looked like their own life.
+She stayed. She stood at the back of gallery seven with her hands in her pockets and her coat too warm and the untouched wine on the pedestal beside her, and she watched a room full of people who did not know they were connected feel the connections anyway — in the art, in the quality of attention that a sculpture demanded, in the silence that fell when a person stood in front of something made from discarded things and saw, in the arrangement, something that looked like their own life.
 
 ---
 
@@ -235,7 +235,3 @@ That was enough. It had always been enough. Elena Vasquez stood in her retrospec
 She just needed to keep going.
 
 She had been doing that for twenty-five years. She would do it for twenty-five more.
-
-<!-- AGENT:NOTE — Elena's perceptual filter (artist's eye) governs the prose throughout — light, color, surface texture, composition. The gallery structure mirrors the novel's own structure (non-chronological, gravitational). Key convergence: Keisha (cleaning), Marcus + Sara (visiting), school shooter's sister (catharsis), Cassiel + Raphael (observing). None of the human characters know their connections — the web is invisible, per the novel's thematic premise. Elena's opening speech echoes her Ch. 10 origin: "found materials, start with what nobody wants." "Margins" sculpture built from Marcus's discarded filter prototypes connects Ch. 15/Ch. 20 to Elena's arc. The fire in 2024 is chaos, not intervention (per initial draft). Raphael's Uber-breakdown collector intervention is referenced. Cassiel and Raphael's dialogue distills the novel's central question: does the invisible web matter if the connected people can't see it? Answer: they feel it. Feeling > seeing. -->
-
-<!-- CONTINUITY:NOTE — Elena age 45 (born ~1988), retrospective 2033. Museum of Contemporary Art, Philadelphia. Elena's career timeline: salvage yard New Haven (2009-), first gallery show (2025, funded by collector), fire summer 2024 (bad wiring), "Margins" built 2025, retrospective 2033. Keisha age 51 (born 1982), museum cleaning contract. Marcus age 37 (born 1996), Sara age 11 (born ~2022, per initial draft she's 8 in 2026 + diagnosed with cancer; but "age 11" at 2033 means born ~2022). Amira is Marcus's wife. School shooter's sister age 34 (shooter was 16 in 2024; sister would be ~25 in 2024, ~34 in 2033). Tiana age 23 (born ~2010), at MICA studying sculpture. DeShawn age 25 (born ~2007). Jaylen ~20 (born ~2013). Cassiel and Raphael present as observers. -->

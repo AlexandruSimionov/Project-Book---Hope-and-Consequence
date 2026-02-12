@@ -62,7 +62,7 @@ She looked at him. He was taller than her now. When had that happened? Six month
 
 "I need you to look at me," she said.
 
-He turned. His eyes were brown and deep and held the particular guarded wariness of a teenager who knew he was about to be asked something he didn't want to answer. She'd seen that look before. She'd worn that look, thirty years ago, sitting on these same steps while her own mother asked questions she didn't want to answer about the boys on the corner, about the car that idled at the end of the block, about the world that was always out there waiting for you to step into it.
+He turned. His eyes were brown and deep and held the guarded wariness of a teenager who knew he was about to be asked something he didn't want to answer. She'd seen that look before. She'd worn that look, thirty years ago, sitting on these same steps while her own mother asked questions she didn't want to answer about the boys on the corner, about the car that idled at the end of the block, about the world that was always out there waiting for you to step into it.
 
 "I'm not stupid," she said. "Those shoes cost two hundred dollars. That phone costs eight hundred. You don't have a job."
 
@@ -122,7 +122,7 @@ Jaylen knew nothing. Jaylen was ten and the world was still the size of his scho
 
 She confronted him on a Saturday. Not because Saturday was better or worse than any other day, but because it was the day her body decided it had carried the weight long enough.
 
-He was getting ready to go out. She heard him in his room — drawers opening, the hiss of spray deodorant, the particular sounds of a boy assembling himself for the world. She knocked once and opened the door without waiting.
+He was getting ready to go out. She heard him in his room — drawers opening, the hiss of spray deodorant, the sounds of a boy assembling himself for the world. She knocked once and opened the door without waiting.
 
 He was standing in front of the mirror on the back of his closet door. New jacket. Not a Jordans-level jacket — a North Face, the kind that cost enough to notice but not enough to alarm. Incremental. That was how it worked. The new things arrived in increments, each one small enough to explain away, and by the time you added them all up the total was undeniable.
 
@@ -321,7 +321,3 @@ She closed her eyes. Tomorrow she would get up at five. She would make breakfast
 She would build it. She had always built it. That was what she did.
 
 Outside, the city settled into its late-night hum. A dog barked. A car passed. The streetlight buzzed its yellow buzz. And on Ashland Avenue the row houses stood shoulder to shoulder in the dark, the way they had for fifty years, holding each other up.
-
-<!-- AGENT:NOTE — Keisha's chapter connects back to Ch. 6 (The Twenty-Dollar Bill): the nine-year-old girl who found money and fed her family is now the forty-two-year-old woman watching her son leave in a police car. The father's death in the Jessup riot (2008) connects to Ch. 7 (Connections) — Jerome Carter was also killed in that riot, witnessed by David Okonkwo. The line "same street, same crack in the ceiling" ties to Ch. 6's ceiling crack that "looked like a river if you squinted." DeShawn's father's hands recurring in DeShawn's hands establishes the hereditary pattern the chapter explores. Michael (Inner Cities Specialist) and Raphael are referenced in the brief as working the gang leader and Keisha respectively, but per POV rules, neither is visible in Keisha's limited perspective — their interventions are off-page. The $20 bill memory serves as motif echo. CONTINUITY: Keisha born 1982, now 42. DeShawn 17. Tiana ~14. Jaylen ~10. Father went to prison 2002, died 2008 Jessup riot. DeShawn gets 3-year sentence (plea deal). -->
-
-<!-- CONTINUITY:NOTE — DeShawn's father: went to prison at 22 (born ~1980, imprisoned ~2002), died in Jessup riot 2008 at age ~28. This places him at Jessup when the riot occurs. Jerome Carter (from Ch. 7) also died in the Jessup riot — coordinate with Thomas Reed's arc. David Okonkwo may have witnessed both deaths (he was incarcerated at Jessup, per Ch. 9 agent notes: "fifteen years of cells"). Keisha's grocery store job and office cleaning job consistent with Ch. 6 parallels to her mother's work life. Address: Ashland Avenue, Baltimore — same as Ch. 6. -->

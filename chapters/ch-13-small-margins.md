@@ -32,8 +32,6 @@ She pushed the thought down. She made the lunches. She found DeShawn's left shoe
 
 This was the architecture of her life. Every beam load-bearing. Every joint held together with the adhesive of routine. Remove one piece and the whole thing came down.
 
-<!-- AGENT:NOTE — Establishing Keisha's daily routine as structural metaphor; poverty rendered through specific detail, not abstraction. Coordinates with SITUATIONAL_INTERPRETATION.md re: environmental grounding. -->
-
 ---
 
 The cashier at the end of Keisha's shift was a white girl named Brittany who was maybe nineteen and worked the express lane with the distracted half-attention of someone whose real life happened elsewhere. Keisha's register was short by a dollar twenty, which happened sometimes, and she was counting out her drawer one more time when Brittany called her over.
@@ -106,7 +104,7 @@ She stared at the number. She circled it. She underlined it. She did the math ag
 
 She turned off the kitchen light. She checked on the kids. DeShawn was asleep with his math worksheet on the pillow, a pencil mark smeared on his cheek. Tiana was reading by flashlight under the covers, and Keisha let her because a child who wanted to read at nine o'clock at night was not a problem she intended to solve. Jaylen was on his back in the crib, breathing the shallow, rapid breaths of a baby in deep sleep, his fists curled above his head like a boxer who had won.
 
-She stood in the hallway between their rooms and leaned against the wall and closed her eyes. The hallway was narrow and smelled like the lavender plug-in she'd bought at the Dollar Tree, and behind the lavender was the deeper smell of the building itself — old plaster, radiator dust, the particular staleness of air that had been circulating through the same rooms for decades. She was thirty-two years old. She had been tired since she was nineteen.
+She stood in the hallway between their rooms and leaned against the wall and closed her eyes. The hallway was narrow and smelled like the lavender plug-in she'd bought at the Dollar Tree, and behind the lavender was the deeper smell of the building itself — old plaster, radiator dust, the staleness of air that had been circulating through the same rooms for decades. She was thirty-two years old. She had been tired since she was nineteen.
 
 She had an hour before she had to leave for her night job.
 
@@ -208,8 +206,6 @@ She put the business card on the kitchen table, next to the legal pad with the c
 
 She set her alarm for 5:14 AM.
 
-<!-- AGENT:NOTE — Mrs. Paulette's credit union card plants the seed for Friday's decision. Walk home = Raphael's intervention (timed battery failure). Physical exhaustion rendered through specific sensory detail. Coordinates with OVERARCHING_NARRATIVE.md re: margin case mechanics. -->
-
 ---
 
 Across the street from Mrs. Paulette's porch, a man sat at the bus stop.
@@ -239,8 +235,6 @@ Raphael allowed himself a small feeling — not triumph, not satisfaction, somet
 A bus came. Route 22, running late, half-empty, its lights harsh against the dark street. The driver opened the door. Raphael stood up, folded his bus schedule, and got on. He rode the bus downtown, looking out the window at Baltimore going by — row houses, liquor stores, churches, empty lots, the whole scarred geography of a city that had been margin-cased so many times its streets practically hummed with it — and he thought about Keisha Williams walking home with a business card in her coat pocket and a number circled on a legal pad, and he thought: *Tomorrow. Friday. She'll decide on Friday.*
 
 He would be there on Friday. Not visible. Not close. Just present, the way the soil is present when the rain comes.
-
-<!-- AGENT:NOTE — Raphael's POV reveals the mechanics of angel intervention: timing, not causation. Battery was already dying; he timed the failure. Raphael is young (89 years), optimistic, uses gardening metaphors per CHARACTER_INTERPRETATION.md. This section coordinates with Ch. 14 (Gabriel receives the Cascade-7 files, including Keisha's) -->
 
 ---
 
@@ -276,7 +270,7 @@ North Avenue was twelve minutes away. The credit union was in a building that lo
 
 She went in. The lobby was small. Two chairs, a desk, a counter with a bell. The carpet was thin and clean. On the wall, a poster: a photograph of a family — Black, smiling, clearly stock photography — with the caption BUILDING YOUR FUTURE, ONE STEP AT A TIME. The poster was faded, its corners curling. It had been on the wall long enough to become part of the architecture, the way certain hopes become part of a neighborhood — present, persistent, and slightly out of date.
 
-A woman came out from the back. She was in her forties, maybe, heavy-set, with reading glasses pushed up on her forehead and the particular expression of someone who was at the end of a long Friday and was trying not to show it. Her name tag said DENISE HALL, LOAN OFFICER.
+A woman came out from the back. She was in her forties, maybe, heavy-set, with reading glasses pushed up on her forehead and the expression of someone who was at the end of a long Friday and was trying not to show it. Her name tag said DENISE HALL, LOAN OFFICER.
 
 "Can I help you?"
 
@@ -284,7 +278,7 @@ A woman came out from the back. She was in her forties, maybe, heavy-set, with r
 
 "I need an emergency loan," she said.
 
-Denise Hall looked at her. It was not the look of the cashier who hadn't thanked her. It was not the look of the shift manager who couldn't fix things. It was the look of a woman who had sat across from a thousand Keishas and had learned to see the thing behind the request — the architecture of exhaustion, the math that didn't work, the particular dignity of a person who was asking for help and hating every second of it.
+Denise Hall looked at her. It was not the look of the cashier who hadn't thanked her. It was not the look of the shift manager who couldn't fix things. It was the look of a woman who had sat across from a thousand Keishas and had learned to see the thing behind the request — the architecture of exhaustion, the math that didn't work, the dignity of a person who was asking for help and hating every second of it.
 
 "Sit down," Denise said. "Let's see what we can do."
 
@@ -331,7 +325,3 @@ She deposited the check at the ATM. She paid the rent. She set her alarm for 5:1
 The week was over. She had survived it the way she survived all the weeks — through the accumulated weight of small decisions made correctly, each one invisible, each one costing more than it should, each one building toward something she could not see but that was, impossibly, there. The seven dollars she gave back. The twelve minutes she did not steal. The food she took because her children were hungry and hunger was not negotiable. The 4.7 miles she walked because the car died and walking was still a choice. The business card she accepted from a stranger on a porch. The loan she signed at six percent instead of four hundred.
 
 Small margins. Each one the width of a hair. Each one the distance between one life and another.
-
-<!-- AGENT:NOTE — Chapter closes with forward projection (Second Margins nonprofit, 2027) while returning to present. Seed metaphor connects to Raphael's gardening imagery. "Let's see what we can do" echoes Denise Hall's words — Keisha will pass on what she received. Coordinates with OVERARCHING_NARRATIVE.md re: margin case ripple effects; CONTINUITY.md re: Keisha timeline (age 32 in 2014, nonprofit opens ~2027). The $340 crisis, six percent loan, and "You'd be good at this work" are planted for future payoff. -->
-
-<!-- CONTINUITY:NOTE — Keisha Williams age 32 in 2014 (born ~1982). Three children: Tiana (9), DeShawn (7), Jaylen (7 months). Lives on Edmondson Avenue, Baltimore. Works at Food Fair (grocery, day shift) and cleaning company (night shift, office complex in Towson). Ex-husband in Jessup (Maryland Correctional). Sister in Glen Burnie. Neighbor Mrs. Odom watches Jaylen. Neighbor's son Darius (17) jumps car battery. Mrs. Paulette Davis on Poplar Grove Street, 42 years in her house. Charm City Credit Union on North Avenue. Loan officer: Denise Hall. Emergency loan: $340 at 6%, 12-month payback. EZ Cash payday loan on Liberty Heights (not used). Car: engine light on since November, battery died Thursday. No microwave since October. Thermostat set at 62. Gas bill under $90. Raphael working Keisha's case for 2 years, disguised as man at bus stop. -->

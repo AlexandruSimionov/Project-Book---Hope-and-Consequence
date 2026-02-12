@@ -42,8 +42,6 @@ She had expected grief. She had expected the flattened, airless sensation of los
 
 She had not jumped. She had stood on the parapet for eleven minutes — she knew because she had counted, the way you count when you are trying to stay present in a body that wants to leave — and then she had climbed down and walked across campus to the sculpture garden and sat on a bench and stared at a piece she had never noticed before, a bronze figure mid-stride, and the plaque at its base had read KEEP GOING, and she had thought *all right* and *fine* and *one more day*, and the one more day had become sixteen years.
 
-<!-- AGENT:NOTE — Elena's near-suicide (2008 in Tucson, age 20). The "Keep Going" sculpture is by Zophiel disguised as maintenance worker per source doc. Elena doesn't know this. She was actually 20 in 2008, making her born 1988 (age 36 in 2024). -->
-
 She had expected to feel that way again. Flattened. Finished. Standing on a different parapet with a different parking lot below.
 
 But that was not what she felt.
@@ -62,7 +60,7 @@ She sat on the curb and looked at all six pieces and understood that the same th
 
 ---
 
-The envelope from Bradley-Weston Design had arrived two days ago, forwarded from her apartment. Cream stock. A logo embossed in navy blue. Inside, a letter addressed to Ms. Elena Vasquez and signed by someone named Patrick, whose title was Creative Director and whose photograph on the company website showed a man in a fitted blazer smiling the particular smile of someone who had never questioned whether their work mattered.
+The envelope from Bradley-Weston Design had arrived two days ago, forwarded from her apartment. Cream stock. A logo embossed in navy blue. Inside, a letter addressed to Ms. Elena Vasquez and signed by someone named Patrick, whose title was Creative Director and whose photograph on the company website showed a man in a fitted blazer smiling the smile of someone who had never questioned whether their work mattered.
 
 They were offering her a position. Junior designer, brand identity division. Forty-seven thousand dollars a year plus benefits — health, dental, a 401(k) with matching. She would design logos. She would design packaging. She would sit at a desk in a glass-walled office in the West Loop and use software to arrange typefaces and color palettes for companies that made things she did not care about, and at the end of each month there would be money in her account, actual money, the kind that accumulated rather than evaporated, and she would have health insurance for the first time since she was twenty-six.
 
@@ -86,7 +84,7 @@ The problem was that understanding this did not pay rent.
 
 ---
 
-The Uber pulled to the curb at eleven-fourteen in the morning. Elena heard it before she saw it — the particular labored sound of an engine that was not running well, a knocking in the cylinders that any mechanic would have recognized as detonation. The car — a silver Camry with a cracked windshield and a rideshare sticker peeling from the corner — stopped, idled roughly for a moment, and then died.
+The Uber pulled to the curb at eleven-fourteen in the morning. Elena heard it before she saw it — the labored sound of an engine that was not running well, a knocking in the cylinders that any mechanic would have recognized as detonation. The car — a silver Camry with a cracked windshield and a rideshare sticker peeling from the corner — stopped, idled roughly for a moment, and then died.
 
 The driver's door opened. A man got out, looked at the hood, looked at his phone, said something Elena couldn't hear, and got back in. The engine turned over once, twice, and did not start. He got out again. Opened the hood. Stared into it the way people stare into engines, with the baffled hopefulness of someone who expects the problem to be visible and labeled.
 
@@ -104,7 +102,7 @@ The woman walked over. Not tentatively — she crossed the sidewalk with the dir
 
 She looked at it for a long time.
 
-Elena watched her. She had learned, over years of small shows in borrowed galleries and art walks and the occasional open studio, to read the way people looked at art. Most people glanced. Their eyes moved across a piece the way eyes move across a menu — scanning for something recognizable, something that matched a category they already possessed. A few people paused, and of those, most were performing the pause — they had learned that art required a certain duration of attention and they provided it the way they might hold a door, out of politeness rather than interest.
+Elena watched her. She had learned, over years of small shows in borrowed galleries and art walks and the occasional open studio, to read the way people looked at art. Most people glanced. Their eyes moved across a piece the way eyes move across a menu — scanning for something recognizable, something that matched a category they already possessed. A few people paused, and of those, most were performing the pause — they had learned that art required a certain duration of attention and they provided it as they might hold a door, out of politeness rather than interest.
 
 This woman was doing neither. She was looking at the piece the way Elena looked at materials — with a focused, acquisitive attention that took in not just the surface but the structure, the history embedded in the form, the evidence of process. Her eyes moved from the base to the top and back again, and then they moved to the point where the glass had pooled and fused with the wire, and she stepped closer and tilted her head.
 
@@ -190,8 +188,6 @@ She did not know that the building she was about to move into was cleaned by a w
 
 She did not know any of this. She knew only that a woman with sharp eyes had looked at the worst thing that had ever happened to her and seen something worth buying.
 
-<!-- AGENT:NOTE — Raphael's intervention: the Uber breakdown is his work. Per source doc, "Raphael doesn't create miracles. He creates coincidences." The chain: rodent > construction > permit > city clerk > Keisha's cleaning connection is the invisible web at work. Elena is entirely unaware. Margaret Haines's husband = factory donating to Marcus's lab, connecting Elena's future sculpture "Margins" to Marcus's discarded filter prototypes. -->
-
 ---
 
 That evening, Elena sat in her apartment — the apartment she was about to lose, the studio above the nail salon where the acetone smell rose through the floorboards and mingled with the paint thinner she kept by the window. She sat on the floor because the chair was covered with clothes she'd been too exhausted to fold, and she held the card in one hand and the letter from Bradley-Weston Design in the other, and she thought about margins.
@@ -222,7 +218,7 @@ Or they might not.
 
 "One month," she said again. "That's all I'm asking."
 
-Another silence. Then Phil sighed, and the sigh contained the particular weariness of a man who had been a landlord long enough to know that one more month usually meant two more months and then an eviction filing and then a unit that needed to be cleaned and painted and rented to someone new. But the sigh also contained something else — a note she couldn't name, something that might have been the residual humanity of a person who rented cheap apartments to artists and had not yet lost the capacity to feel conflicted about it.
+Another silence. Then Phil sighed, and the sigh contained the weariness of a man who had been a landlord long enough to know that one more month usually meant two more months and then an eviction filing and then a unit that needed to be cleaned and painted and rented to someone new. But the sigh also contained something else — a note she couldn't name, something that might have been the residual humanity of a person who rented cheap apartments to artists and had not yet lost the capacity to feel conflicted about it.
 
 "One month," he said. "Thirty days. After that—"
 
@@ -241,7 +237,3 @@ Margaret Haines had written on the card while waiting for her husband's car. Ele
 *The fire was an editor.*
 
 She closed her hand around the card and held it against her chest and breathed the smoke-scented air of her apartment, and outside the window the September light was fading over Bridgeport, and somewhere three blocks away her ruined studio was settling into its new shape, and somewhere beneath the rubble and the ash and the melted glass, the next sixteen years of her life were waiting to be built from whatever was left.
-
-<!-- AGENT:NOTE — Elena does not take the design job. She calls the landlord. Margaret Haines connection to be paid off: (1) collector buys 3 pieces (this chapter), (2) commissions more (future), (3) husband's factory → Marcus's lab → discarded filters → Elena's sculpture "Margins" (most iconic work, future chapter ~2025). Elena born 1988, near-suicide 2008 (age 20, Tucson), studio fire September 2024 (age 36). She has been making art from found materials for 16 years since 2008. -->
-
-<!-- CONTINUITY:NOTE — Elena Vasquez age 36 in September 2024, born 1988. Studio location: Bridgeport, Chicago, second floor of three-story brick warehouse. Fire cause: electrical (bad wiring). 80% of work destroyed. 6 pieces survived (near east wall/fire escape). Eviction from apartment: 41 days behind on rent. Bradley-Weston Design job offer: $47K/year, junior designer. Margaret Haines: art collector, 60s-70s, Lincoln Park address. Husband owns factory in Indiana (industrial filtration components, donated to Marcus's university lab). Keisha cleans the building Elena will move into. Elena's apartment: studio above nail salon, 6 blocks east of her former studio. Community art classes taught in Pilsen church basement until June 2024 (program cut). -->

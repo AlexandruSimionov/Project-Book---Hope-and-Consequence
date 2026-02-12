@@ -10,7 +10,7 @@ So the crease stayed.
 
 He'd hung the poster at eight a.m. in the spot assigned to him: Station 47, back wall of the Michigan Union Ballroom, between the emergency exit and the hallway that led to the restrooms. The conference organizers had arranged the poster stations in descending order of presenter seniority, which meant the tenured faculty occupied the front of the room -- their posters flanked by institutional logos and funded by grants with six-figure budgets -- while the undergraduates were relegated to the geography of afterthought. Marcus was the only undergraduate in the nanofiltration track. He was also the only presenter whose poster had been printed on matte paper instead of glossy, because matte was cheaper, and whose display easel was borrowed from the art department and listed the previous exhibitor's name on a sticker he hadn't fully peeled off.
 
-None of this bothered him. Or -- it bothered him the way weather bothered him, the way the fact of being perpetually broke bothered him: as a background condition, ambient and constant, not worth the energy of resentment. What bothered him was the crease in Figure 3.
+None of this bothered him. Or -- it bothered him the way weather bothered him — as a background condition, ambient and constant, not worth the energy of resentment. What bothered him was the crease in Figure 3.
 
 By nine-thirty, the ballroom was full. Materials scientists, environmental engineers, polymer chemists, and a scattering of industry representatives in name tags that bore corporate logos Marcus recognized from journal advertisements. They circulated through the poster stations the way shoppers circulated through a department store -- pausing at the displays that caught their eye, moving past the ones that didn't, occasionally doubling back when something registered belatedly. The front of the room was crowded. The back was not.
 
@@ -50,7 +50,7 @@ Marcus let go of the tape.
 
 "Eighty-nine point three," he said. "At pH eight. It drops to eighty-one below pH seven because the arsenite stays uncharged, so the electrostatic repulsion--"
 
-"Falls off. Right. The Donnan exclusion breaks down with the neutral species." She looked at him for the first time. Her eyes were brown and quick and carried the particular intensity of someone who was not making small talk. "So how are you compensating? Your membrane thickness is standard. Your molecular weight cutoff is -- what, two hundred daltons?"
+"Falls off. Right. The Donnan exclusion breaks down with the neutral species." She looked at him for the first time. Her eyes were brown and quick and carried the intensity of someone who was not making small talk. "So how are you compensating? Your membrane thickness is standard. Your molecular weight cutoff is -- what, two hundred daltons?"
 
 "One-eighty."
 
@@ -150,7 +150,7 @@ Amira looked at him. She smiled, and the smile was not casual or polite but earn
 
 Marcus wrote his email on a napkin. His handwriting was small and precise, the letters evenly spaced, the numbers clear. It was the handwriting of someone who had spent years recording lab data in notebooks because he couldn't afford a proper electronic lab journal subscription. Amira wrote hers beneath it, her handwriting larger and faster, the letters leaning forward as if in a hurry to get somewhere.
 
-They split the bill. Two small drip coffees. Four dollars and thirty cents with tax. Marcus put down two ones and a quarter and Amira covered the rest, and they stood outside the coffee shop in the October air, which smelled like wet leaves and the particular mineral smell of a Midwestern college town in autumn -- old brick and cold earth and the faintest trace of something burning, someone's fireplace, somewhere.
+They split the bill. Two small drip coffees. Four dollars and thirty cents with tax. Marcus put down two ones and a quarter and Amira covered the rest, and they stood outside the coffee shop in the October air, which smelled like wet leaves and the mineral smell of a Midwestern college town in autumn -- old brick and cold earth and the faintest trace of something burning, someone's fireplace, somewhere.
 
 "It was good to meet you, Marcus Chen," Amira said.
 
@@ -175,9 +175,3 @@ He would find a way to make that water safe. He didn't know how yet. He didn't k
 He knew only that the crease in his poster had not stopped Amira Hassan from asking the right question, and that her question had made the ninety minutes of standing alone worth it, and that the granola bar in his pocket was still there, and that he was hungry, and that the work was waiting.
 
 He went home and got back to it.
-
-<!-- AGENT:NOTE — This chapter establishes: (1) Marcus at 21, undergrad at U of M, fixated on water filtration; (2) His grandmother Rosa's mythology ("angels will help") carried as ambient family story, not believed but not forgotten; (3) The near-drowning at age 8 referenced obliquely; (4) Meeting Amira Hassan, who is a 3rd-year PhD at U of Illinois doing biomimetic membrane research; (5) Their intellectual connection and complementary research areas (his NF membranes + her channel architectures = future hybrid breakthrough); (6) Amira mentions her family nearly displaced by a zoning vote — the politician who abstained was Thomas Reed, whose abstention was caused by an angel's intervention (Azrael, via the estranged daughter's call), but neither Amira nor Marcus knows this; (7) No angel present in this scene — purely human connection. -->
-
-<!-- CONTINUITY:NOTE — Marcus born 1996 (age 21 in 2017). Conference at University of Michigan, Ann Arbor, October 2017. Amira Hassan age 23, 3rd-year PhD at University of Illinois. Marcus's advisor = Dr. Petrov (civil engineer, signed off on research but didn't direct it). Marcus's research: modified polyamide TFC membranes for arsenic removal via interfacial polymerization, modified MPD:TMC monomer ratio (2.5:1). Amira's research: biomimetic membranes, aquaporin-inspired synthetic water channels. They exchange emails; don't reconnect until 2024. The zoning vote Amira mentions = Thomas Reed's 2019 abstention, but she's describing it in 2017 as having happened "a few years back" — NOTE: potential timeline issue. The outline places Thomas's abstention in 2019, but Amira describes it in 2017. Resolve: Amira could be referring to an earlier zoning threat to her family, or this should be adjusted to "last year" or the scene moved to 2020. User prompt says "a few years back" so keeping as-is per user instruction, noting the discrepancy for continuity review. -->
-
-<!-- AGENT:NOTE — Foreshadowing planted: (1) "Your channels, my matrix" = their future hybrid membrane breakthrough; (2) Amira's zoning reference = Thomas Reed connection (invisible to both characters); (3) Marcus's sense of a connection he can't make = thematic thread of the invisible web; (4) The napkin preserved across years = will resurface when they reconnect in 2024; (5) Rosa's "angels will help" mythology referenced again in Marcus's interiority, consistent with ch-03 establishment. -->

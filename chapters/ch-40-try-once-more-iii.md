@@ -80,7 +80,7 @@ The body jumped. The monitor showed artifact — the wild scribble of electricit
 
 "How long?" Carlos asked. Not a challenge. A genuine question, delivered in the neutral tone of a nurse who had worked enough codes to know that the question was legitimate and that the answer was not in the protocol but in the doctor.
 
-Rebecca looked at the clock. Twenty-three minutes since the bystander had found him. Fifteen since the paramedics had arrived. The math was not in the man's favor. Asystole of this duration, in a patient with no known history and no available medical records and no one waiting in the hallway to tell them about allergies or medications or the particular biography of this heart — the math said stop.
+Rebecca looked at the clock. Twenty-three minutes since the bystander had found him. Fifteen since the paramedics had arrived. The math was not in the man's favor. Asystole of this duration, in a patient with no known history and no available medical records and no one waiting in the hallway to tell them about allergies or medications or the biography of this heart — the math said stop.
 
 "ID?" she asked.
 
@@ -164,9 +164,9 @@ The man woke at 6:47 AM.
 
 Rebecca was at the nurses' station, writing notes, when Carlos came to tell her. She walked to the room — they had moved him from the trauma bay to a bed in the cardiac unit — and she stood in the doorway and looked at the man who had been dead forty minutes ago and was now alive.
 
-He was sitting up. Not fully — the bed was raised to thirty degrees and he was leaning against it, his body making the small, tentative adjustments of a person who has been unconscious and is re-learning the physics of being upright. His eyes were open. They were still red-rimmed, still inflamed, but they were focused now, tracking the room with a slow, scanning attention that Rebecca recognized from other patients who had woken from cardiac arrest — the particular disorientation of a mind that had been absent and was now trying to match the world it remembered with the world it was seeing.
+He was sitting up. Not fully — the bed was raised to thirty degrees and he was leaning against it, his body making the small, tentative adjustments of a person who has been unconscious and is re-learning the physics of being upright. His eyes were open. They were still red-rimmed, still inflamed, but they were focused now, tracking the room with a slow, scanning attention that Rebecca recognized from other patients who had woken from cardiac arrest — the disorientation of a mind that had been absent and was now trying to match the world it remembered with the world it was seeing.
 
-But there was something else in the eyes. Something that was not disorientation. The man was looking at the room — the monitors, the IV pole, the window with its view of the hospital parking lot and the gray February sky — and his expression was not confusion. It was surprise. The particular surprise of a person who has expected one thing and received another, who has prepared for an outcome that did not occur.
+But there was something else in the eyes. Something that was not disorientation. The man was looking at the room — the monitors, the IV pole, the window with its view of the hospital parking lot and the gray February sky — and his expression was not confusion. It was surprise. The surprise of a person who has expected one thing and received another, who has prepared for an outcome that did not occur.
 
 "Good morning," Rebecca said. "I'm Dr. Morrison. You're at St. Michael's Hospital. You had a cardiac arrest. We resuscitated you."
 
@@ -224,7 +224,7 @@ He walked down the hall. She watched him go — the slow, deliberate steps of a 
 
 He pushed through the exit. The February cold came in through the opened door, a brief exhalation of winter, and then the door closed and he was gone.
 
-Rebecca stood in the hallway and looked at the closed door and felt the particular frustration of a doctor who has saved a life and cannot save the life that comes after — the next meal, the next night on a bench, the next winter, the ongoing cascade of needs that a single resuscitation could not address.
+Rebecca stood in the hallway and looked at the closed door and felt the frustration of a doctor who has saved a life and cannot save the life that comes after — the next meal, the next night on a bench, the next winter, the ongoing cascade of needs that a single resuscitation could not address.
 
 She did not know what she had saved. She did not know that the man in the filthy coat was nine hundred years old, that his name was Puriel, that his title was the Angel of Punishment and Examiner of Souls, that he had spent nine centuries working the cases that no other angel wanted — the addicts, the recidivists, the people whose margin cases came back again and again like a tide that would not stop rising. She did not know that he had been an Abolitionist, a cynic, a meticulous documenter of the system's failures, filling reports that read like indictments, cataloguing every margin case that failed, every intervention that came too late, every human who fell through the gap between what the system promised and what it delivered. She did not know that he had come to St. Michael's not as a patient but as an experiment — that he had deliberately pushed himself to the edge of mortality, testing the question that had been consuming him for a century: if the system did not matter, if the angels' work was futile and the margins were an illusion and human suffering was a problem without a solution, then did the angels themselves matter? Could they die? Would anyone try to save them?
 
@@ -242,7 +242,7 @@ One Abolitionist became an Evolutionist. Not because the evidence changed. Becau
 
 ---
 
-Rebecca went home that night. Her shift ended at seven AM, but she stayed until noon, finishing notes, checking on patients, doing the administrative work that filled the gaps between the moments that mattered. She was tired in the way that residents were always tired — not the tiredness of a single shift but the cumulative tiredness of two years of shifts, the bone-deep fatigue that lived in her the way the fluorescent buzz lived in the hospital walls, constant and unnoticed until she stopped moving long enough to hear it.
+Rebecca went home that night. Her shift ended at seven AM, but she stayed until noon, finishing notes, checking on patients, doing the administrative work that filled the gaps between the moments that mattered. She was tired in the way that residents were always tired — not the tiredness of a single shift but the cumulative tiredness of two years of shifts, the bone-deep fatigue that lived in her like the fluorescent buzz in the hospital walls, constant and unnoticed until she stopped moving long enough to hear it.
 
 She drove to her apartment. She showered. She ate something — toast, she thought, or cereal, the food of people too tired to cook and too hungry to skip the meal. She sat on her couch in sweatpants and a T-shirt with her hair wet and her feet bare on the carpet and she picked up her phone and called her mother.
 
@@ -254,11 +254,11 @@ Her mother answered on the second ring. She always answered on the second ring, 
 
 "How was your shift?"
 
-Rebecca looked at the ceiling. The ceiling was white and featureless and told her nothing, the way hospital ceilings told patients nothing, the way the sky told people nothing when they looked up and asked it questions.
+Rebecca looked at the ceiling. The ceiling was white and featureless and told her nothing, the way hospital ceilings told patients nothing, as the sky tells no one anything when they look up and ask it questions.
 
 "I saved someone today," she said.
 
-A pause. Rebecca could hear her mother shift — the sound of a body adjusting in a chair, the creak of the seat, the particular quality of attention that her mother brought to listening, the journalist's attention, the attention that treated every sentence as a lead that might open into something larger.
+A pause. Rebecca could hear her mother shift — the sound of a body adjusting in a chair, the creak of the seat, the quality of attention that her mother brought to listening, the journalist's attention, the attention that treated every sentence as a lead that might open into something larger.
 
 "Tell me about it," her mother said.
 
@@ -276,7 +276,7 @@ When Rebecca finished, her mother was quiet for a moment. Then she said:
 
 "I think you became a doctor for the same reason I became a journalist. Because somebody has to try once more."
 
-Rebecca closed her eyes. She pressed the phone against her ear. Her mother's voice was warm and steady and carried the particular quality of a woman who had spent her life fighting for things that mattered and had learned, over decades, that the fighting was the point — not the winning, not the outcome, but the willingness to keep going when the story was hard and the sources were reluctant and the truth was expensive and the alternative to trying was accepting that the world was what it was and would not be moved.
+Rebecca closed her eyes. She pressed the phone against her ear. Her mother's voice was warm and steady and carried the quality of a woman who had spent her life fighting for things that mattered and had learned, over decades, that the fighting was the point — not the winning, not the outcome, but the willingness to keep going when the story was hard and the sources were reluctant and the truth was expensive and the alternative to trying was accepting that the world was what it was and would not be moved.
 
 "I love you, Mom."
 
@@ -287,7 +287,3 @@ Rebecca hung up. She set the phone on the couch cushion. She looked at her hands
 She lay down on the couch. The apartment was quiet. Outside, the February wind pressed against the windows, and the traffic on the street below moved in the rhythm that cities maintain at all hours, the low constant pulse of a system that does not stop, and Rebecca Morrison closed her eyes and slept, and the sleep was heavy and dreamless and complete, the sleep of a person who has done the one thing she was trained to do and done it well and does not yet know — cannot know, will never know — the full consequence of having done it.
 
 The patient was alive. The patient was walking somewhere in the February cold, alive, restarted, revised. And the philosophy that had restarted him — *try once more* — was traveling still, forward and backward through time, carried by women who did not know each other and would never meet, each one a link in a chain that had begun with a whisper in a hospital room at three in the morning and would continue, link by link, into a future that none of them could see and all of them were building.
-
-<!-- AGENT:NOTE — This chapter deliberately echoes Ch. 2 structurally: same hospital (St. Michael's), same time (3 AM), same fluorescents, same terrible coffee, same lateral nurse-look, same "one more round," same unexpected restart. Rebecca is Sarah's spiritual heir — the philosophy ("try once more") has been transmitted across two generations. The whisper that Cassiel delivered in 1985 arrives here as inherited practice, secularized, passed from teacher to student, no longer supernatural but no less powerful. Puriel's arc: 900-year cynic → experiment in mortality → saved by inherited human compassion → converted from Abolitionist to Evolutionist. His conversion mirrors Cassiel's ongoing question: "if they can do this without us, what are we for?" Puriel's answer: the trying matters independent of the system. Rebecca's POV is maintained — she does not know Puriel is an angel, she doesn't know about the chain from Sarah to her. The final paragraphs modulate to medium narrative distance to plant thematic seeds without violating POV. -->
-
-<!-- CONTINUITY:NOTE — Rebecca Morrison age 28 (born ~2007). St. Michael's Hospital, Queens — same hospital as Ch. 2. Dr. Sarah Morrison age 78 (born ~1957, consistent with Ch. 2 age 28 in 1985). Sarah: emeritus status, both knees replaced, still teaches. Rebecca's mother: journalist who broke Yuki Takahashi whistleblowing story and Thomas Reed corruption story. Puriel: Angel of Punishment, 900 years of service, Abolitionist faction. Code duration: 23+ minutes. Nurses: Carlos (male nurse, compressions), Janet (charge nurse, 25 years at St. Michael's — echoes Denise from Ch. 2). Rebecca is second-year resident (Sarah was third-year in Ch. 2). Hector: security guard. Fluorescents unchanged since 1985. Coffee still terrible. Time of resuscitation: approximately 3:27 AM. Puriel discharges AMA next morning. -->
