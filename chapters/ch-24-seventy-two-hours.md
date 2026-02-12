@@ -108,7 +108,7 @@ David put his hands in his pockets. He looked at the window. The Japanese maple 
 
 "It's a projection. Based on models. Models that haven't been externally validated."
 
-"David." She heard her own voice and noted its flatness, its clinical precision, the way it sounded exactly the way it had sounded fourteen years ago in Martin Hale's office. The same control. The same measured tone. The same woman holding the same kind of data in the same kind of room. "This isn't zero-point-three percent and subclinical liver enzymes. This is fatal cardiac arrest. One in five hundred. People will die on this drug."
+"David." She heard her own voice and noted its flatness, its clinical precision, the way it had sounded fourteen years ago in Martin Hale's office. The same control. The same measured tone. The same woman holding the same kind of data in the same kind of room. "This isn't zero-point-three percent and subclinical liver enzymes. This is fatal cardiac arrest. One in five hundred. People will die on this drug."
 
 He turned from the window. "Go home," he said. "Re-run the analysis tomorrow. Fresh eyes. If the signal holds, we'll convene the safety board."
 
@@ -206,7 +206,7 @@ She re-ran the analysis. Fifth model. Sixth. She used every statistical tool she
 
 The signal held.
 
-At noon she went to David's office. He was on a call. She waited outside for eleven minutes. When he came out, his face had the particular tightness of someone who was having a day made of bad phone calls.
+At noon she went to David's office. He was on a call. She waited outside for eleven minutes. When he came out, his face had the tightness of someone who was having a day made of bad phone calls.
 
 "It holds," she said.
 
@@ -264,7 +264,7 @@ Three thousand jobs. Three thousand salaries. Three thousand families. Mortgages
 
 If she stopped the launch, those three thousand people would lose their jobs. Not all at once — the decline would be gradual, a controlled demolition, layoffs in waves, the stock cratering, the company entering the slow downward spiral that pharmaceutical companies entered when their pipeline dried up. But the result would be the same. Three thousand people out of work, in a region where pharmaceutical jobs were the backbone of the economy, in a year when the economy was already fragile.
 
-She thought about one of them. A man in accounting she passed in the hallway sometimes. Mid-forties. He'd mentioned his daughter's college fund once, in the breakroom, the casual, proud way fathers mentioned these things. If the company went under, the college fund would evaporate. The man would look for work. He would not find it easily — mid-forties, specialized, in a shrinking industry. The stress would build. The marriage would strain. The bills would accumulate. The man would sit in a house he could no longer afford and feel the particular weight of a life that was unraveling, and that weight would become his daughter's weight, and his wife's weight, and the weight would distribute itself through a family the way force distributes through a structure, finding the weak points, pressing on them until something gave.
+She thought about one of them. A man in accounting she passed in the hallway sometimes. Mid-forties. He'd mentioned his daughter's college fund once, in the breakroom, the casual, proud way fathers mentioned these things. If the company went under, the college fund would evaporate. The man would look for work. He would not find it easily — mid-forties, specialized, in a shrinking industry. The stress would build. The marriage would strain. The bills would accumulate. The man would sit in a house he could no longer afford and feel the weight of a life that was unraveling, and that weight would become his daughter's weight, and his wife's weight, and the weight would distribute itself through a family the way force distributes through a structure, finding the weak points, pressing on them until something gave.
 
 Twelve thousand lives saved. Three thousand lives upended. The ratio looked clean. Four to one. Any ethicist would sign off.
 
@@ -331,7 +331,3 @@ A pause. Her mother's pause had a quality that Yuki recognized — the pause of 
 She hung up. She ate the rice. She washed the bowl. She went to bed. She slept — actually slept, for the first time in three nights, a deep, dreamless sleep that felt less like rest and more like surrender, the body finally releasing the tension that the mind had been holding.
 
 She dreamed about nothing. No spreadsheets, no columns of numbers, no faces of patients in a line that stretched to the horizon. Just darkness, and quiet, and the absence of a cursor blinking at the end of a sentence she had finally finished writing.
-
-<!-- AGENT:NOTE — Yuki's chapter directly echoes Ch. 11 (The First Compromise): same office building, same Japanese maple, same structure of discovery-confrontation-decision. The parallelism is deliberate — same woman, same type of finding, opposite decision. The 2010 email she typed and deleted is now mirrored by the 2024 email she types and sends. Free indirect discourse colored with Yuki's analytical mind throughout (statistical language, spreadsheet metaphors, dose-response thinking applied to moral decisions). Jophiel's intervention (arranging the gym encounter with Claire) follows Subtlety Protocols — coincidental presence, no overt direction. Claire Marsden introduced as the journalist contact. The miso soup motif recurs from Ch. 11. CONTINUITY: Yuki born ~1977, now 47. Helios Pharmaceuticals, same location. Martin Hale retired (was 53 in 2010, now 67). David Chen is new supervisor. Drug: Carvexinil (cardiac). Interaction: ACE inhibitors (lisinopril, enalapril, ramipril) → fatal cardiac arrhythmia in ~1/500 patients. Mother in San Jose, takes lisinopril 20mg. The "man in accounting" foreshadows the downstream consequence — his job loss will create another margin case. -->
-
-<!-- CONTINUITY:NOTE — Timeline: Tuesday discovery, Wednesday safety board meeting (launch denied delay), Thursday afternoon she sends email. Launch was scheduled for Friday. 72-hour window checks out. Helios Pharmaceuticals: 3,000 employees, 14-year tenure for Yuki. Carvexinil: 11 years development, $2.3B invested, 60%+ projected revenue. Martin Hale now retired in Wilmington. Japanese maple still present — planted 1996 per Ch. 11, now 28 years old. Yuki's apartment: same complex (The Willows), different unit. Mother age 73, San Jose. The 2010 FDA email (med@fda.gov) referenced from Ch. 11. Patient 03-2291 from Ch. 11 recalled. -->

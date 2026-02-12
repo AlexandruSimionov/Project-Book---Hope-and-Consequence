@@ -52,7 +52,7 @@ She sat in the chair across from his desk. She handed him the printout. She watc
 
 "Could. I can't say would. Not from this data. We'd need a targeted study — six months, minimum, with a sub-cohort on combined therapy and serial liver panels."
 
-Martin picked up the printout again. He looked at it the way a man looks at a bill he was not expecting. Not with anger. With the particular weariness of someone who has been through this before and knows exactly how the conversation will go and has never found a way to make it go differently.
+Martin picked up the printout again. He looked at it the way a man looks at a bill he was not expecting. Not with anger. With the weariness of someone who has been through this before and knows exactly how the conversation will go and has never found a way to make it go differently.
 
 "Yuki," he said. "How long have you been here?"
 
@@ -98,7 +98,7 @@ He said this without heat. He said it the way you'd read a weather report. These
 
 "The zero point three percent experience mild liver stress that their doctors will catch on routine blood work, and their doctors will either adjust the dose or tell them to switch to ibuprofen. It's not lethal, Yuki. We're not talking about liver failure. We're talking about elevated enzymes in a tiny fraction of patients taking a specific combination."
 
-She looked at the printout on his desk. Twelve names. Twelve patient ID numbers that corresponded to twelve human beings who had volunteered for a clinical trial because they trusted the process, trusted the company, trusted the scientists. She thought about patient 03-2291, the fifty-eight-year-old woman with the ALT of 89, and she wondered whether that woman reached for the Tylenol bottle when she had a headache, the way Yuki reached for it, the way almost everyone reached for it, without reading the label, without thinking.
+She looked at the printout on his desk. Twelve names. Twelve patient ID numbers that corresponded to twelve human beings who had volunteered for a clinical trial because they trusted the process, trusted the company, trusted the scientists. She thought about patient 03-2291, the fifty-eight-year-old woman with the ALT of 89, and she wondered whether that woman reached for the Tylenol bottle when she had a headache, the way almost everyone reached for it, without reading the label, without thinking.
 
 "There's something else," Martin said.
 
@@ -134,7 +134,7 @@ Four sentences. Forty-seven words. She typed them in twelve minutes and then sat
 
 *No additional action is recommended at this time.*
 
-It was the truth. It was also not the truth. It was a sentence that lived in the space between those two things, a sentence that would survive any audit, that would hold up under any regulatory review, that documented the finding without flagging it, acknowledged the data without acting on it. It was, she realized, the first sentence she had ever written that she was not proud of.
+It was the truth. It was also not the truth. It was a sentence that lived in the space between those two things, a sentence that would survive any audit, that would hold up under any regulatory review, that documented the finding without flagging it, acknowledged the data without acting on it. It was the first sentence she had ever written that she was not proud of.
 
 She saved the file. She closed the spreadsheet. She went to the cafeteria and bought a sandwich she did not eat.
 
@@ -185,7 +185,3 @@ She slept. She dreamed about spreadsheets, about columns of numbers scrolling en
 She woke at six. She drove to work. She did not think about the email she had not sent. She would not think about it again for fourteen years, until a Tuesday in 2024, when a different spreadsheet would show her a different anomaly — not twelve patients but twelve thousand, not subclinical liver stress but cardiac arrest — and she would sit at a different desk and face the same decision, and this time the path would lead the other way, toward the email she would send, toward the career she would lose, toward the twelve thousand lives she would save and the three thousand jobs that would disappear and the single father in Accounting who would lose his insurance and spiral into a depression that would become someone else's margin case.
 
 But that was fourteen years away. For now, Yuki Tanaka was thirty-three years old, and she had made her first compromise, and the morning was bright, and the parking lot at Helios Pharmaceuticals was filling up, and the Japanese maple outside Martin Hale's window was just beginning to turn.
-
-<!-- AGENT:NOTE — Yuki's first compromise established as the foundational moral event that will drive her 2024 whistleblower arc. No angel assigned per OVERARCHING_NARRATIVE.md (still on safe side of margin). Martin Hale characterized as pragmatic, not villainous, per CHARACTER_INTERPRETATION.md guidelines on moral complexity. The unsent email is the key dramatic object — planted here for payoff in Ch. 24 (Cascade-7 sequence). Free indirect discourse used throughout to color narration with Yuki's analytical mind (spreadsheet metaphors, clinical language bleeding into interior life). -->
-
-<!-- CONTINUITY:NOTE — Yuki age 33 in 2010 (birth year ~1977). Helios Pharmaceuticals, Research Triangle Park, North Carolina. Drug: Veracetol (cholesterol). Interaction: acetaminophen + Veracetol → subclinical ALT elevation (87-102 U/L) in 0.3% of patients. Supervisor: Martin Hale, 53, 22 years at Helios. FDA threshold: 120 U/L. Prior drug: Loritab (16-month delay). Yuki's apartment: The Willows complex. Mother in San Jose. Yuki has been at Helios 3 years. She typed email to med@fda.gov (MedWatch) but deleted it. Secondary analysis appendix note: documented but not flagged. Veracetol submission timeline and $200M cost established. 2024 connection: 12,000 patients, cardiac arrest, company bankrupted, 3,000 jobs lost. -->

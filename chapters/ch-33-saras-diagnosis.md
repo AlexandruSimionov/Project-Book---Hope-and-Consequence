@@ -32,15 +32,13 @@ Amira noticed first. Amira, who noticed everything, who carried the observationa
 
 "The pediatrician saw her for twelve minutes. Something's wrong."
 
-She was right. She was, in Marcus's experience, almost always right about the things that mattered. Their partnership — marriage, he reminded himself, though the word still felt new, still carried the particular wonder of a man who had spent most of his twenties and early thirties believing that solitude was his natural condition — their marriage was built on this asymmetry: Marcus saw data, Amira saw patterns. Marcus measured the variables; Amira felt the climate. Together they covered the full spectrum of attention. Separately, they each missed things. He missed the human things. She missed the — no. She did not miss things. She saw differently.
+She was right. She was, in Marcus's experience, almost always right about the things that mattered. Their partnership — marriage, he reminded himself, though the word still felt new, still carried the wonder of a man who had spent most of his twenties and early thirties believing that solitude was his natural condition — their marriage was built on this asymmetry: Marcus saw data, Amira saw patterns. Marcus measured the variables; Amira felt the climate. Together they covered the full spectrum of attention. Separately, they each missed things. He missed the human things. She missed the — no. She did not miss things. She saw differently.
 
-They went back to the doctor. A different doctor this time, Amira's choice — a pediatric specialist at Children's Hospital of Philadelphia, the kind of appointment that required a referral and a wait and the particular persistence that Amira deployed the way she had once deployed grant applications, with relentless, systematic follow-through. The specialist ordered bloodwork. The bloodwork came back wrong.
+They went back to the doctor. A different doctor this time, Amira's choice — a pediatric specialist at Children's Hospital of Philadelphia, the kind of appointment that required a referral and a wait and the persistence that Amira deployed the way she had once deployed grant applications, with relentless, systematic follow-through. The specialist ordered bloodwork. The bloodwork came back wrong.
 
 Not dramatically wrong. Not the kind of wrong that announces itself in a phone call, the voice on the other end careful and steady in the way that trained voices become when they are carrying weight. It was the other kind of wrong — the subtle kind, the abnormal values in a column that required a second look, a follow-up test, a panel of additional markers that the first test had not included. White blood cell count elevated. Platelet count low. The specialist ordered a bone marrow biopsy.
 
 Marcus understood bone marrow biopsies. He understood the procedure intellectually — the needle, the aspiration, the extraction of a small sample from the posterior iliac crest, the slide preparation, the staining, the microscopic analysis of cellular morphology. He understood it the way he understood any process: as a sequence of steps governed by physical laws, each step producing data that fed into the next. He did not understand it the way the parent of an eight-year-old understands it, which is to say: he did not understand what it meant to sit in a waiting room while someone inserted a needle into his daughter's hip bone, and to know that the data produced by that needle would determine the shape of everything that followed.
-
-<!-- AGENT:NOTE — Marcus's scientific framing is his defense mechanism; the chapter will progressively strip it away. His understanding of procedure vs. his inability to understand what it means as a father is the central tension. -->
 
 ---
 
@@ -86,7 +84,7 @@ He understood this. He could not process it.
 
 The doctor was speaking. She was talking about treatment protocols — induction chemotherapy, consolidation therapy, the possibility of a bone marrow transplant if the first rounds of treatment did not achieve remission. She was using words that Marcus knew individually but that assembled themselves into sentences he could not hold, the meanings sliding through his comprehension the way water slides through a membrane with insufficient rejection capacity. He heard the words. He could not retain them.
 
-Amira was retaining them. He could see it — the way she leaned forward, the way her eyes tracked the doctor's face, the way her hand moved, writing in a small notebook she had brought. She was recording. She was mapping. She was doing the thing she had always done, the thing that had drawn him to her in a coffee shop in Ann Arbor — she was looking at an impossible problem and building a framework around it, constructing the scaffolding that would allow them to climb into the problem rather than be buried by it.
+Amira was retaining them. He could see it — the way she leaned forward, her eyes tracking the doctor's face, her hand moving, writing in a small notebook she had brought. She was recording. She was mapping. She was doing the thing she had always done, the thing that had drawn him to her in a coffee shop in Ann Arbor — she was looking at an impossible problem and building a framework around it, constructing the scaffolding that would allow them to climb into the problem rather than be buried by it.
 
 "What about clinical trials?" Amira asked.
 
@@ -99,8 +97,6 @@ The doctor gave her the identifiers. Amira wrote them down. Marcus sat beside he
 His hands did not shake. His hands were still. His hands were the hands of a man who had learned, over years of lab work, to hold them steady, to keep the pipette level, to pour without spilling, to control the instrument of himself with the precision that the work required. And now the work required a different kind of precision — the precision of sitting in a chair while a doctor explained that his daughter had a sixty percent chance of dying — and his hands were still, and the stillness was not composure but its opposite, the paralysis of a mind that had reached a number it could not optimize.
 
 Forty percent.
-
-<!-- AGENT:NOTE — The number 40% is Marcus's central crisis. As a scientist, he lives by data — but this is data he can't act on. The chapter systematically strips away his intellectual framework until all that's left is the father. -->
 
 ---
 
@@ -138,7 +134,7 @@ Marcus picked up Doctor Rex from the cup holder. The plastic was warm from the s
 
 It was helplessness. The pure, uncut helplessness of a man who had built his entire life around the principle that problems had solutions, that data led to insight, that the careful application of intelligence and effort could bend the world toward a better outcome — and who was now confronting a problem that did not care about his intelligence, that would not yield to his effort, that reduced his decades of scientific training to the status of a man holding a plastic dinosaur in a parking lot, waiting for something he could not engineer.
 
-He put Doctor Rex back in the cup holder. He got out of the car. He opened the back door and lifted Sara, gently, the way you lift something that has become suddenly, unbearably precious — not because it was not precious before but because the knowledge of its fragility has changed the way your hands work, has made every touch an act of negotiation between holding on and holding too tight.
+He put Doctor Rex back in the cup holder. He got out of the car. He opened the back door and lifted Sara, gently, the way you lift something that has become suddenly, unbearably precious — not because it was not precious before but because the knowledge of its fragility has changed your hands, has made every touch an act of negotiation between holding on and holding too tight.
 
 He carried her inside. She smelled like antiseptic and strawberry shampoo and the particular warmth of a sleeping child, and he carried her up the stairs because the elevator was broken again, and each step was a step he took with the full weight of her in his arms, and the weight was nothing, she was light, she had always been light, and the lightness was the thing that broke him.
 
@@ -170,7 +166,7 @@ His voice was quiet. Not a whisper — he did not whisper, he was a man who spok
 
 "My daughter is sick. She's eight years old. She has a forty percent chance. Forty percent."
 
-He said the number the way he said all numbers — precisely, without inflection, the way a man reads data from a screen. But the number, spoken aloud in this room, sounded different than it had in the doctor's office. In the doctor's office it had been clinical, a percentage in a probability distribution, a point on a curve. Here, in this small room with its electric candle and its frosted glass, the number sounded like what it was: a sentence. A sentencing. The universe informing a father that his daughter's life was a coin flip weighted against her.
+He said the number the way he said all numbers — precisely, without inflection, as though reading data from a screen. But the number, spoken aloud in this room, sounded different than it had in the doctor's office. In the doctor's office it had been clinical, a percentage in a probability distribution, a point on a curve. Here, in this small room with its electric candle and its frosted glass, the number sounded like what it was: a sentence. A sentencing. The universe informing a father that his daughter's life was a coin flip weighted against her.
 
 "I don't know what I'm asking for. I'm a scientist. I believe in — I believe in systems. In processes. In the idea that if you understand how something works, you can make it work better. I've spent my whole life trying to make water clean enough to drink, and I did it. I did it, and it mattered, and forty-three million people — " His voice broke. Not dramatically. A fracture, hairline, the kind that preceded structural failure. "Forty-three million people have cleaner water because of what I built. And I can't do anything for her. I can't — there's no membrane for this. There's no monomer ratio. There's no data that tells me how to keep my daughter alive."
 
@@ -190,13 +186,11 @@ He did not know this. He did not know that the thing he was doing — this grace
 
 He sat in the chapel for a long time. Then he stood up, and he went upstairs, and he sat beside Sara's bed, and he held her hand, and the monitors beeped, and the night deepened, and he did not sleep.
 
-<!-- AGENT:NOTE — Marcus's prayer echoes Rosa's in Ch. 1/3 — same plea, different generation. The parallel is invisible to Marcus (narrator doesn't connect it overtly). Cassiel's intervention follows, but Marcus will never know its cause. -->
-
 ---
 
 Cassiel made the phone call on a Thursday.
 
-She called from a payphone on Walnut Street — one of the last payphones in Philadelphia, a relic that survived not because it was needed but because no one had gotten around to removing it. She fed quarters into the slot. The quarters were cold. The morning was warm, April working its way toward May, the trees along the street producing the particular green of new leaves, the green that looked artificial because it was so saturated, so committed to its own color, that it seemed painted rather than grown.
+She called from a payphone on Walnut Street — one of the last payphones in Philadelphia, a relic that survived not because it was needed but because no one had gotten around to removing it. She fed quarters into the slot. The quarters were cold. The morning was warm, April working its way toward May, the trees along the street producing the green of new leaves, the green that looked artificial because it was so saturated, so committed to its own color, that it seemed painted rather than grown.
 
 She dialed the number of the hospital's clinical trials office. When the coordinator answered, Cassiel identified herself as Dr. Marks from the oncology department, following up on a patient referral. Her voice carried the practiced authority of someone who had been impersonating hospital staff for decades — not often, not carelessly, but in the specific moments when the bureaucratic machinery of human institutions needed a nudge that the Subtlety Protocols could accommodate if you did not look too closely at the accommodation.
 
@@ -222,13 +216,11 @@ Whether the treatment worked was not up to her. Whether Sara lived was not up to
 
 She opened her eyes. She walked away from the payphone. She did not look back.
 
-<!-- AGENT:NOTE — Cassiel's intervention is minimal and deniable — a phone call that moves a file. The intervention creates access, not cure. Outcome remains ambiguous per OVERARCHING_NARRATIVE.md guidelines. -->
-
 ---
 
 The weeks that followed were the worst of Marcus's life, and the worst of his life was not a single event but a texture, a quality of time that infected every hour with the same low-frequency dread. He could not eat. The food that Amira prepared — simple things, the things they could afford, rice and lentils and the vegetables from the discount bin at the grocery store — sat on his plate and he looked at it and the looking was all he could do. Amira ate because she had to, because the children needed her functional, because she had decided, in the way that Amira decided things, that falling apart was not available to her at this time and that she would schedule her collapse for later.
 
-She was the strong one. She had always been the strong one, though Marcus had not known this until now, until the diagnosis had stripped away the routines and habits that ordinarily distributed the weight of a life between two people and revealed the underlying architecture — the load-bearing walls, the structural supports, the elements that held the building up when everything else was stripped away. Amira was the architecture. She called the specialists. She organized the treatment schedule. She coordinated with the insurance company, which was its own kind of war — a war fought with claim forms and pre-authorization codes and the particular bureaucratic language that institutions used to delay payments they were contractually obligated to make. She drove Sara to chemo. She held the basin when Sara vomited. She washed the sheets. She read to James at night, the three-year-old who did not understand why his sister was in the hospital and whose questions — *Why is Sara's hair falling out? When is Sara coming home? Is Sara going to die?* — arrived with the precision of a child's honesty, cutting through every euphemism and evasion with the clean efficiency of a blade that does not know it is sharp.
+She was the strong one. She had always been the strong one, though Marcus had not known this until now, until the diagnosis had stripped away the routines and habits that ordinarily distributed the weight of a life between two people and revealed the underlying architecture — the load-bearing walls, the structural supports, the elements that held the building up when everything else was stripped away. Amira was the architecture. She called the specialists. She organized the treatment schedule. She coordinated with the insurance company, which was its own kind of war — a war fought with claim forms and pre-authorization codes and the bureaucratic language that institutions used to delay payments they were contractually obligated to make. She drove Sara to chemo. She held the basin when Sara vomited. She washed the sheets. She read to James at night, the three-year-old who did not understand why his sister was in the hospital and whose questions — *Why is Sara's hair falling out? When is Sara coming home? Is Sara going to die?* — arrived with the precision of a child's honesty, cutting through every euphemism and evasion with the clean efficiency of a blade that does not know it is sharp.
 
 Marcus went to work. He tried to go to work. He sat at his desk at the university — the desk he had earned back after the open-source breakthrough, the desk in the lab that bore his name now, the lab where the work continued, where the membranes were being tested and refined and manufactured and shipped to the forty-seven countries where they were being used — and he looked at the data on his screen and he saw nothing.
 
@@ -261,7 +253,3 @@ Sara survived. The experimental treatment worked. Or the chemotherapy worked. Or
 He did not believe this. He would never believe this. He was a scientist, and the survival of his daughter was a fact, not a miracle, and the distinction mattered to him, and the distinction also did not matter, and the tension between mattering and not mattering was something he would carry for the rest of his life, the way his mother carried Rosa's words — aware of them always, never quite sure what they meant, unable to set them down.
 
 Sara was alive. That was the data. That was all the data he needed.
-
-<!-- AGENT:NOTE — Sara's survival is rendered as fact, not miracle. Ambiguity preserved per OVERARCHING_NARRATIVE.md. Marcus's prayer in the chapel, Cassiel's phone call, the clinical trial, the biology — all are present, none is privileged. The reader is left with the same uncertainty as Marcus. Sara named after Dr. Sarah Morrison per CONTINUITY.md (Marcus's mother chose the name). -->
-
-<!-- CONTINUITY:NOTE — April 2026. Marcus Chen age 30 (born 1996). Amira Hassan-Chen (married ~2025). Children: Sara (8), James (3, named after Amira's father). Sara diagnosed AML subtype M4, 40% survival rate. Treatment: induction chemo + Phase II targeted therapy clinical trial (Dr. Westbrook's study, CHOP). Open-source filtration technology used in 47 countries. Marcus and Amira are poor (no patent revenue). Cassiel's intervention: phone call to clinical trials office, poses as Dr. Marks, moves Sara's file to top of queue. Sara survives, achieves remission. Rosa Chen's words referenced ("Angels will help"). Sara named after Dr. Sarah Morrison. Apartment in Philadelphia. Car: used Civic. Younger child James with Amira's mother during crisis. -->

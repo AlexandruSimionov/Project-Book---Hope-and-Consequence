@@ -16,8 +16,6 @@ Seven-twelve in the morning. The laundromat hummed below. The traffic on Steinwa
 
 This was Gabriel's two hundred and thirty-seventh year.
 
-<!-- AGENT:NOTE — Establishing Gabriel's routine, his office, his relationship to mundane objects; the ordinariness is the point — contrast between 237 years and a morning like any other; coordinates with SITUATIONAL_INTERPRETATION.md (familiar space, comfort/complacency) -->
-
 ---
 
 He felt the tightness at seven-nineteen.
@@ -53,8 +51,6 @@ Twenty-three people freed. One of them, a woman named Ruth, walked north. She ma
 Gabriel did not know this at the time. He knew only that he had whispered, and a man had chosen, and twenty-three people had walked free, and the farm had failed, and Elias Harmon had died young and unhappy. His first case. His first lesson. The right choice almost always costs more than the wrong one, and the person who makes it almost never sees the return.
 
 The tightness in his chest deepened.
-
-<!-- AGENT:NOTE — First flashback: 1788, establishing Gabriel's earliest understanding of margin cases and cost; the freed slaves' descendant becoming a civil rights lawyer demonstrates the long arc of consequences; coordinates with OVERARCHING_NARRATIVE.md (theme: invisible ripples) -->
 
 ---
 
@@ -106,8 +102,6 @@ He began building the Cascade analysis thirty-seven years before Jophiel designe
 
 The tightness was a vise now. Gabriel set down the file. He placed both hands flat on his desk. He breathed.
 
-<!-- AGENT:NOTE — Buchenwald flashback is Gabriel's crisis of faith, his turn toward pattern analysis; connects to his later role as secret Waiter; the system's failure at industrial scale prefigures Cascade-7 and species margin; coordinates with CHARACTER_DEVELOPMENT.md (Gabriel's arc: faith through understanding, not obedience) -->
-
 ---
 
 *2001. September. The morning the sky was blue.*
@@ -153,8 +147,6 @@ His left arm was numb. The fist around his heart was tightening. Gabriel took a 
 He looked at his desk. The files. The coffee, still warm. The laptop, open to his email. The map with its pins. The corkboard with its case summaries. Twenty-eight years of this office. Two hundred and thirty-seven years of this work. The accumulated residue of a life spent administering a system he had believed in and doubted and served and questioned and never, not once, abandoned.
 
 He had one more thing to do.
-
-<!-- AGENT:NOTE — 2020 flashback kept brief per instructions; Gabriel's "I can't process this many" echoes his established breakdown; the 200 resignations he processed show his administrative burden; coordinates with CONTINUITY.md (pandemic details match Ch notes) -->
 
 ---
 
@@ -216,8 +208,6 @@ Outside, the 7 train rattled past. Inside, the silence was the kind of silence t
 
 Gabriel's body sat at his desk. His pen was in his hand. His note was under his fingers. His coffee was beside his elbow. The laundromat hummed. And the light in the office — the gray, early-morning light of a March day in Astoria — did not change, because the light did not know, because the light was doing what light did, which was enter the room and illuminate what was there and not concern itself with what had left.
 
-<!-- AGENT:NOTE — Gabriel dies at 7:23 AM; his death is quiet, mundane, a heart stopping at a desk; the cosmic significance lives in contrast with the ordinariness; his last act (data dump) is both betrayal and preparation; coordinates with OVERARCHING_NARRATIVE.md (Gabriel as secret Waiter) and CONTINUITY.md (Gabriel dies March 2025, age 237, office above laundromat in Astoria, sends Cascade-7 data to all factions) -->
-
 ---
 
 Cassiel arrived at eight-oh-four.
@@ -269,5 +259,3 @@ When the calls were done, she put the phone in her pocket. She stayed on the flo
 She stayed. It was what she did. It was what she had always done.
 
 The laundromat hummed below.
-
-<!-- AGENT:NOTE — Cassiel finds Gabriel; her response is to sit, which is her nature; the hour of sitting is her farewell; the phone calls sequence (Raphael, Azrael, Michael) reflects her understanding of each angel's needs; coordinates with CHARACTER_INTERPRETATION.md (Cassiel's solitude nature) and CONTINUITY.md (Gabriel found by Cassiel, March 2025, sticky note under his fingers) -->

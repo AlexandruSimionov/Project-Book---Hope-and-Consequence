@@ -40,8 +40,6 @@ Another pause. Then Gabriel had sighed — a sound Raphael would hear a thousand
 
 Raphael had hung up grinning. He was eighty-nine years into his service. The older angels talked about their first century the way humans talked about their twenties — a blur of energy and bad decisions and the conviction that everything mattered. Raphael didn't think of it that way. He just thought it was the truth.
 
-<!-- AGENT:NOTE — Raphael's service years: 89 as of 1989, consistent with bible/source doc. Born into service approximately 1900. Mystics faction, "every margin matters equally" philosophy. -->
-
 Now, at ten-fourteen p.m. on November ninth, he stood in the thickening crowd outside the Bornholmer Strasse border crossing and watched the margins multiply.
 
 There — a woman in a brown coat, pressing forward. If she made it through tonight, she'd reach her sister in Kreuzberg, and the reunion would give her the courage to leave her husband, who hit her. If she didn't make it through, the failure would calcify into the belief that nothing ever changed.
@@ -77,8 +75,6 @@ His name, Raphael would learn later, was not Harald Jager. The real Jager was in
 Raphael felt the shoe against his ribs, inside his coat.
 
 He hadn't known. He'd picked up a lost shoe because that was what he did — noticed small things, collected them, carried them. Gabriel called it a filing problem. Either way, the shoe was here, and Stefan Eckel's daughter's foot had been in it that morning, and the coincidence sat inside Raphael like a bell that hadn't been struck yet.
-
-<!-- AGENT:NOTE — Stefan Eckel is fictional; the chapter uses the real Bornholmer Strasse setting and the real Jager decision as backdrop, but Raphael's margin case is a composite/invented guard for narrative purposes. Maintains historical accuracy of location and event while creating space for angel intervention. -->
 
 The crowd surged. Someone at the back had pushed, or someone at the front had stumbled, and the compression wave moved through the mass of bodies the way sound moves through water. Raphael braced himself and felt the pressure of three thousand people behind him, all of them leaning toward the same thin line.
 
@@ -243,11 +239,3 @@ Sariel sat on the Bosenbruecke and watched the people of Berlin walk into their 
 He thought: *This is what the work is for. This is what it looks like when it works. One guard, one moment, one wall. If it can work here, it can work anywhere. If one person's decision can bring a wall down, then no wall is permanent. No failure is final. No margin is too small to matter.*
 
 He sat there until the sun came up.
-
-<!-- AGENT:NOTE — Foreshadowing: Sariel's idealism here ("no failure is final, no margin is too small") will be directly contradicted by his 2024 school shooting failure. The line "If it can work here, it can work anywhere" should echo ironically when he stands in a school hallway and it doesn't work. His faith peaks in this chapter and breaks in the 2024 chapter. -->
-
-<!-- AGENT:NOTE — Continuity: Raphael's service years = 89 as of 1989. Sariel's = 61 as of 1989. Subtlety Protocols enacted 1987 (two years prior). Gabriel alive and working as administrator. Raphael reports to Gabriel. Raphael is Mystics faction. Sariel is pre-faction (Education & Youth division, will become Interventionist leader post-2024). -->
-
-<!-- AGENT:NOTE — The shoe: a potential recurring motif. Raphael collects small objects throughout the narrative. This is his first. Consider whether the shoe appears in his possession later, or whether the return of it to Petra becomes its own micro-margin. -->
-
-<!-- AGENT:NOTE — Stefan Eckel: fictional composite guard, not Harald Jager. Jager is referenced as inside the checkpoint building. The real historical decision was Jager's, but the narrative invention of Eckel allows for angelic intervention without contradicting the historical record. -->

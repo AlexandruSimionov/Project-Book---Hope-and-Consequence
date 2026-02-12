@@ -14,9 +14,7 @@ Not constantly. Not dramatically. Nothing so clean as sobbing or so theatrical a
 
 He had stopped trying to fix it after that. He carried a handkerchief. He avoided questions.
 
-<!-- AGENT:NOTE — Establishing Azrael's defining physical trait (perpetual weeping) and his observational/mathematical nature; coordinates with CHARACTER_INTERPRETATION.md -->
-
-Seven-fifteen. The sidewalks were filling with the particular density of a Tuesday morning in lower Manhattan — the commuters in their office clothes moving with the purposeful pace of people who had somewhere specific to be at a time that someone else had determined, the coffee cups held like talismans, the headphones and cell phones and newspapers folded to the crossword, the entire choreography of an ordinary day assembling itself from ten thousand individual decisions about when to leave the house and which train to take and whether to stop for a bagel. Azrael watched them the way he always watched them. He counted.
+Seven-fifteen. The sidewalks were filling with the density of a Tuesday morning in lower Manhattan — the commuters in their office clothes moving with the purposeful pace of people who had somewhere specific to be at a time that someone else had determined, the coffee cups held like talismans, the headphones and cell phones and newspapers folded to the crossword, the entire choreography of an ordinary day assembling itself from ten thousand individual decisions about when to leave the house and which train to take and whether to stop for a bagel. Azrael watched them the way he always watched them. He counted.
 
 Three hundred and twelve people crossed the intersection of Church and Vesey between 7:15 and 7:18. He did not decide to count them. The counting happened the way breathing happened, automatic and ungovernable, a mechanism that had been running so long it had worn a groove in the floor of his consciousness. He counted people the way other people hummed songs — not for any purpose, but because the machinery was on and could not be turned off.
 
@@ -61,8 +59,6 @@ They would not know any of this for another hour. For now they were simply two p
 Azrael walked up the stairs and out of the station. He checked his notebook. He drew a small line next to Diana Morales's name and another next to Peter Hammett's, though Peter was not one of his assigned cases — he was a bystander, a bonus, a life that happened to be standing close enough to a margin case to be pulled along in its wake. The system did not account for bonuses. The system did not account for a great many things.
 
 Two down. Twenty-one remaining.
-
-<!-- AGENT:NOTE — First intervention demonstrated; establishing Subtlety Protocols in action (physical obstruction, deniable cause); Azrael's mathematical/recording nature shown through behavior -->
 
 ---
 
@@ -143,8 +139,6 @@ But Sandra did not live, and Margaret Yee would spend the rest of her life carry
 Nineteen saved. Four lost.
 
 He wrote the numbers. He underlined them. He closed the notebook.
-
-<!-- AGENT:NOTE — Azrael's mathematical/recording nature drives the narrative; each save shown through specific detail and procedure; the four failures individuated to resist abstraction; coordinates with OVERARCHING_NARRATIVE.md (9/11 as Abolitionist catalyst) -->
 
 ---
 
@@ -310,7 +304,7 @@ And then he began a new section in the notebook. He labeled it with a heading he
 
 He would fill this section over the next twenty-two years. He would document every case where the margin case system had worked as designed and people had died anyway — the ones who were not assigned, the ones who fell outside the probability matrices, the ones whose lives were not, according to the architecture of the system that employed him, statistically significant enough to warrant an angel. He would track the numbers. He would build the case. He would carry the record with the same fidelity with which he carried the names, adding weight to the notebook the way water adds weight to stone, slowly, continuously, until the stone is either shaped or broken.
 
-He sat on the curb of the West Side Highway in the dust and the smoke and the diminishing light of a September afternoon, and he wrote. The tears ran their channels through the dust on his face. The sirens wailed and faded and wailed again. A firefighter walked past, covered in gray, carrying nothing, his face blank with the particular emptiness of someone who has seen something that will not fit inside the available space, and Azrael looked up and met his eyes and neither of them said anything.
+He sat on the curb of the West Side Highway in the dust and the smoke and the diminishing light of a September afternoon, and he wrote. The tears ran their channels through the dust on his face. The sirens wailed and faded and wailed again. A firefighter walked past, covered in gray, carrying nothing, his face blank with the emptiness of someone who has seen something that will not fit inside the available space, and Azrael looked up and met his eyes and neither of them said anything.
 
 Then Azrael looked back down at his notebook. He turned to a fresh page. He began a list.
 
@@ -319,7 +313,3 @@ It was the first page of what would become, over the years, the most comprehensi
 But that was later. That was years of work and argument and the slow, grinding labor of turning grief into evidence. For now, a man sat on a curb in lower Manhattan, dust in his hair and dust on his coat and dust in his lungs, his eyes red and wet and streaming, writing in a notebook with a pen that kept smearing because his hand pressed too hard, and the city burned behind him and the sky that had been so clear that morning was black with smoke, and he wrote and wrote and wrote because writing was the only protest available to him, the only form of witness that the system could not classify or contain.
 
 He wrote until the light failed. Then he closed the notebook and stood up and walked north, into the city, into the night, into the twenty-two years that would follow, carrying the weight of 11,851 names — four more than yesterday, four more than the morning, four more than the number he had woken up with on a day when the sky was blue and the air was clean and the world had not yet broken in a way that could not be repaired.
-
-<!-- AGENT:NOTE — Chapter closes Azrael's POV locked to his mathematical/documenting nature; his transformation from cynical protocol-follower to Abolitionist is earned through the specific failure of the system on this specific day; coordinates with CHARACTER_DEVELOPMENT.md (catalyst event for negative-change/disillusionment arc); CONTINUITY.md (Azrael's notebook count: 11,847 pre-9/11, 11,851 post-9/11 — four new failures); OVERARCHING_NARRATIVE.md (Uriel joins Reformers, Azrael founds Abolitionists) -->
-
-<!-- CONTINUITY:NOTE — Date: September 11, 2001. Azrael: 412 years of service, notebook volume 409. 23 margin cases assigned in WTC, 19 saved, 4 lost (Richard Ashe, Catherine Troyer, James Oakley, Robert Moreno). Total dead: 2,977. Uriel present — Financial Interventions Director, had 6 cases on trading floors, all saved. Uriel joins Reformers after this day. Azrael begins "Systemic Failures" record, founding document of Abolitionists. Subtlety Protocols referenced (Metatron, 1987). Karen Liu intervention: nausea/physiological suggestion. Diana Morales intervention: blocked turnstile. Margaret Yee: saved by canceled meeting, returned for coworker Sandra, survived but traumatized. Catherine Troyer: saved by false fire alarm, returned to South Tower on security instruction, killed. Richard Ashe: voicemail intervention failed, did not call daughter back. James Oakley: Azrael missed intervention window by 120 seconds. Robert Moreno: last-minute case addition, no time for intervention. Azrael's prior failure count: 11,847, now 11,851. Azrael references Cassiel's 1985 case (Rosa Chen/Sarah Morrison) — story circulated among field angels. -->

@@ -12,8 +12,6 @@ Three applications. Fourteen months of writing, revising, resubmitting. Two hund
 
 The PI. Principal investigator. Him. Marcus Chen, twenty-eight years old, fourth-year PhD candidate in the Department of Environmental Engineering, whose publication record was thin because his advisor had been the kind of researcher who believed in getting things right before getting them published, and whose advisor was now dead.
 
-<!-- AGENT:NOTE — Establishing Marcus's crisis state: three concurrent losses (grant, advisor, relationship) plus external pressure from mother. This is the setup for the margin case that Cassiel will intervene on in Ch. 21. -->
-
 Dr. Robert Whitfield had died six weeks ago. Aortic dissection, which sounded like something from a textbook until it happened to a man you had spent three years sitting across from in a cluttered office on the fourth floor of the Pennington Engineering Building, a man who drank black coffee from the same chipped mug that said WORLD'S OKAYEST CHEMIST and who had once spent forty-five minutes diagramming the molecular structure of an arsenate ion on a whiteboard because Marcus had asked a question — one question, in a seminar full of students who had stopped asking questions — about whether the tetrahedral geometry of arsenate could be exploited for selective binding in polymer membranes.
 
 "That," Whitfield had said, setting down the marker, "is the first interesting thing anyone has asked me in three semesters."
@@ -151,5 +149,3 @@ Outside, the morning hit him — warmth, light, the thick vegetable smell of the
 He did not know why he was going there. He did not know what he would do when he arrived. He walked with his hands in his pockets and his laptop bag over one shoulder, and the sun was warm on his face, and the city was awake and indifferent to his crisis in the way that cities are — a million lives proceeding, each one the center of its own universe, each one invisible to the others.
 
 He walked. The morning was absurdly beautiful, and Marcus Chen walked into it without deciding anything, which was the only honest thing he could have done.
-
-<!-- AGENT:NOTE — Chapter ends with Marcus in transit to the coffee shop, setting up direct handoff to Ch. 21 (Cassiel's POV). The non-decision is the margin — his refusal to sign either document keeps the window open for Cassiel's intervention. Key continuity: Marcus has NOT signed the Meridian letter, has NOT abandoned the dissertation. Both paths remain open. -->

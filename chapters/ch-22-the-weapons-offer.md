@@ -14,7 +14,7 @@ Amira Hassan was twenty-eight, the same age as Marcus, and she had spent the sev
 
 They met for coffee. They talked for five hours. By hour two, they were drawing molecular structures on napkins. By hour three, they had identified the convergence point: Marcus's nanoparticle technology embedded in Amira's polymer matrix, the iron-oxide particles providing arsenic selectivity while the polymer membrane provided structural support and flow-through capacity. The theory was sound. The challenge was cost — specifically, the cost of the polymer base material, which in lab-grade form ran $180 per kilogram, a price that made eleven-cent membranes a mathematical fantasy.
 
-"Unless," Amira had said, holding her fourth cup of coffee in both hands, her dark eyes wide with the particular intensity that Marcus recognized as the look of a scientist who had just seen the shape of an answer, "we don't use lab-grade polymer."
+"Unless," Amira had said, holding her fourth cup of coffee in both hands, her dark eyes wide with the intensity that Marcus recognized as the look of a scientist who had just seen the shape of an answer, "we don't use lab-grade polymer."
 
 "You can't use industrial-grade. The impurities—"
 
@@ -31,8 +31,6 @@ Marcus had stared at her. "What's your cost per kilogram?"
 "Give it away."
 
 "It's waste to them. Their new line uses a different resin system. The old stock is technically contaminated — mixed grades, some UV degradation — but for our purposes, the contamination is manageable. I've already characterized samples."
-
-<!-- AGENT:NOTE — The factory donation connects to Uriel's financial interventions network. The "new equipment, huge upgrade" was facilitated by an investment that Uriel arranged through a venture fund — part of the angel financial intervention system. Marcus and Amira don't know this. The factory also employs workers from the neighborhood where Keisha cleans. Connection node: Cascade-7 Appendix C.4. -->
 
 That had been three weeks ago. Marcus, who had no lab of his own, had persuaded a sympathetic postdoc in the materials science department — a woman named Jun who owed him a favor for six months of weekend instrument training — to let them use her lab after hours. They worked from 8 PM to 2 AM, five nights a week, eating dollar ramen from the vending machine in the basement and drinking coffee that Marcus made in a French press he kept in his laptop bag because the lab's coffee maker had been broken since 2019.
 
@@ -110,7 +108,7 @@ Marcus agreed, because he was curious and because no one else was offering lunch
 
 ---
 
-The Atherton Hotel was the kind of place that communicated, through the weight of its silverware and the thread count of its napkins, that money was not a concern. Marcus arrived in the same grey T-shirt and jeans he wore to the lab, which he realized, upon entering the lobby, was a miscalculation — not because he cared about fashion but because the disparity between his appearance and his surroundings created a power asymmetry that was, he suspected, intentional. Hargrove had chosen this venue.
+The Atherton Hotel was the kind of place that communicated, through the weight of its silverware and the thread count of its napkins, that money was not a concern. Marcus arrived in the same grey T-shirt and jeans he wore to the lab — a miscalculation, obvious upon entering the lobby — not because he cared about fashion but because the disparity between his appearance and his surroundings created a power asymmetry that was, he suspected, intentional. Hargrove had chosen this venue.
 
 The conference room was on the third floor, private, with a view of Rittenhouse Square that was wasted on a meeting but served the purpose of saying *we can waste a view*. James Hargrove was already there, standing, hand extended. He was fifty, maybe fifty-five, tall, grey at the temples in the way that men in suits on television are grey at the temples. His handshake was firm without being aggressive. His smile was warm. He wore a navy suit and a tie that was exactly the right color to suggest taste without suggesting vanity.
 
@@ -189,8 +187,6 @@ Marcus did not answer immediately. He thought about Hargrove's face — warm, re
 Amira was quiet for a long time. The spectrometer beeped — the latest test, another membrane, another data point in a body of evidence that was growing stronger every night. She walked to the instrument, read the result, wrote it in the lab notebook.
 
 "My family almost lost our house," she said, not looking at him. "When I was fifteen. There was a vote — city council, some zoning thing. A development deal that would have displaced two thousand families in our neighborhood. My father's shop, my grandmother's apartment, everybody we knew. The vote was supposed to pass. It didn't. One council member abstained, and the whole thing died." She capped the pen. "I don't know why he abstained. Nobody does. But we kept our house. My father kept his shop. My brother and sister grew up there. All because one person — one person — decided not to do the thing everyone expected him to do."
-
-<!-- AGENT:NOTE — Amira is referencing Thomas Reed's abstention (2019), which was itself the result of Azrael's intervention (estranged daughter's phone call). Amira doesn't know the chain of causation. The reader, at this point in the book, does. Dramatic irony: the same system that saved Amira's family is now indirectly producing the moral choice that she and Marcus face. Connection node: Cascade-7 Appendix C.4, Thomas Reed → Amira Hassan → Marcus Chen. -->
 
 Marcus looked at her. "What are you saying?"
 
@@ -345,5 +341,3 @@ Outside, the city was doing what cities do. Traffic, voices, the distant wail of
 Marcus hung up the phone. He opened his laptop. He began writing the manual — the step-by-step instructions for building a nine-cent arsenic filtration membrane from recycled plastic, iron oxide, and the refusal to make the easy choice.
 
 The work continued. The margins held.
-
-<!-- AGENT:NOTE — Chapter completes Marcus's arc for ERA 4: crisis (Ch. 20) → intervention (Ch. 21) → breakthrough → moral choice → open-source decision. Key continuity points: (1) Amira references Thomas Reed's abstention without knowing it; (2) factory materials connect to Uriel's financial network; (3) Meridian letter finally disposed of, closing the thread from Ch. 20; (4) Rosa/angels motif returns in final conversation with mother; (5) Marcus's daughter and Mars settlements are foreshadowed for ERA 6. The Atherton offer ($2M) is refused; consequences (poverty, delayed surgery) are real and unresolved. Open threads: Amira's family, mother's hip, the 47-country adoption timeline, Farhan in Dhaka. -->

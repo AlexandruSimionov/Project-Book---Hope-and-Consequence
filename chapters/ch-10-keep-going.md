@@ -6,11 +6,9 @@
 
 The review lasted eleven minutes. Elena timed it because there was a clock on the wall behind Professor Lindquist's head, a round institutional clock with a second hand that moved in small, visible jerks, and she had watched it the way you watch something when you cannot look at the person speaking to you. Eleven minutes for four years of work. She had carried in twelve pieces — oils, mixed media, a charcoal series she'd spent the entire summer on — and arranged them along the crit room wall with the care of someone setting a table for guests who mattered. She had thought about sightlines. She had thought about how the afternoon light from the windows would fall across the brushwork. She had worn the clean button-down, the one without paint on the cuffs.
 
-Professor Lindquist sat in the plastic chair across from the display and looked at Elena's four years the way a man looks at a parking ticket. He was fifty-three and had shown at galleries in Chelsea when Chelsea still meant something, and he carried this history in his posture, in the slight backward lean of a man who had once been relevant and was now comfortable. Elena had admired him once — genuinely, the way a young artist admires someone who has done the thing she wants to do. That admiration had thinned over four years into something more cautious, an awareness that Lindquist's taste was a closed system, self-referencing and airtight.
+Professor Lindquist sat in the plastic chair across from the display and looked at Elena's four years the way a man looks at a parking ticket. He was fifty-three and had shown at galleries in Chelsea when Chelsea still meant something, and he carried this history in his posture, in the slight backward lean of a man who had once been relevant and was now comfortable. Elena had admired him once — genuinely, as a young artist admires someone who has done the thing she wants to do. That admiration had thinned over four years into something more cautious, an awareness that Lindquist's taste was a closed system, self-referencing and airtight.
 
 But he was the gatekeeper. His signature went on the review.
-
-<!-- AGENT:NOTE — Establishing Elena's artistic eye through her attention to arrangement and light; coordinates with CHARACTER_INTERPRETATION.md re: perceptual filter as artist -->
 
 "You're technically skilled," he said, after seven of the eleven minutes had passed in silence. He said it the way a doctor says *the X-ray is clear* before delivering the rest of the sentence.
 
@@ -22,7 +20,7 @@ He put the glasses back on.
 
 Elena sat with her hands in her lap and did not speak.
 
-"I'll be honest with you," Lindquist said, and the phrase arrived with the particular weight it always carried when spoken by someone who was about to be unkind and wanted credit for it. "I don't see a future for you as an artist. I see a future as an illustrator, maybe. A designer. Someone who executes other people's visions competently. But the thing that separates a craftsperson from an artist is the willingness to be seen, and you — " He shook his head. "You won't let anyone see you."
+"I'll be honest with you," Lindquist said, and the phrase arrived with the weight it always carried when spoken by someone who was about to be unkind and wanted credit for it. "I don't see a future for you as an artist. I see a future as an illustrator, maybe. A designer. Someone who executes other people's visions competently. But the thing that separates a craftsperson from an artist is the willingness to be seen, and you — " He shook his head. "You won't let anyone see you."
 
 He stood. He gathered his notes. He left.
 
@@ -46,8 +44,6 @@ The sky was the color of zinc — a flat, even gray that erased the horizon and 
 
 Elena walked to the edge.
 
-<!-- AGENT:NOTE — Height/precariousness per SITUATIONAL_INTERPRETATION.md; environmental details reflecting Elena's perceptual filter (artist's eye for light, color, composition) -->
-
 The parapet wall was low — knee-height, poured concrete with a metal railing bolted to its top. The railing was aluminum, dull and cold, and when Elena placed her hands on it she could feel the wind vibrating through the metal, a constant low tremor, as if the building were shivering. Below her, the courtyard spread out in a neat rectangle: paved pathways cutting diagonal lines between patches of brown grass, wooden benches, a maintenance shed in the far corner with a corrugated metal roof and a padlock on the door. Beyond that, the campus. Beyond that, the town. Beyond that, the hills, going gray.
 
 She could hear traffic from the road along the campus's western edge. A distant siren. The wind in the trees — the remaining leaves made a sound like paper being crumpled, and beneath it the bare branches creaked in a way that was almost a voice. The rooftop heating units hummed and clicked. A vent exhaled warm air that smelled of dust and metal.
@@ -63,8 +59,6 @@ They had called every Sunday for four years. She had not told them about the cri
 Now she stood on the roof and thought about calling them. She thought about her mother's voice. She thought about what the phone call would sound like tomorrow, when someone found her number in the registrar's file and dialed it, and the thought did not produce grief or guilt or hesitation. It produced nothing. It landed on the flat surface of the conviction and slid off, the way water slides off stone.
 
 This was the thing that frightened her — not the height, not the wind, not the fall. The nothing. The absence of the feelings that should have stopped her. The emptiness Lindquist had found in her paintings was in her too, had always been in her, and the paintings were just the evidence. *Technically skilled but emotionally vacant.* The diagnosis was total. It covered everything.
-
-<!-- AGENT:NOTE — Emotional state: emptiness, not despair. The danger is the absence of feeling, not its intensity. Coordinates with SITUATIONAL_INTERPRETATION.md re: emotional contamination (shame → withdrawal) -->
 
 The wind picked up. She noticed, with the detached precision of someone cataloging a scene she would not need to remember, that the gravel beneath her feet was a mix of gray and white and rust-colored stones, and that the rust-colored ones were feldspar, pinkish and granular, and that the composition of the gravel against the zinc-colored sky and the aluminum railing had a palette she would have noted in her sketchbook under other circumstances. Cool neutrals with an accent of warm mineral.
 
@@ -101,8 +95,6 @@ She crouched down. The grass was cold and it soaked through her jeans immediatel
 KEEP GOING
 
 Elena read the words. She reached out and touched the letters with her index finger, tracing the grooves, feeling the rough concrete and the grit of dirt in the scratches. The letters were not deep. They had been made quickly, without revision, the way you write something when the writing is not the point — when the point is what the words say, not how they look on the surface.
-
-<!-- AGENT:NOTE — The sculpture's roughness is the point: art without institutional permission. Coordinates with OVERARCHING_NARRATIVE.md thematic thread (margins, invisible intervention). Zophiel's work is deniable — Elena interprets it as a maintenance worker's creation, which is also true. -->
 
 She placed her palm flat against the figure's torso. The metal was cold — colder than the railing on the roof, a deep cold that felt as if it went through the metal and into the ground, connected to something larger than the November evening. The surface was rough under her hand. She could feel the weld beads, the seams where one piece of scrap had been joined to another, the slight warping where the heat of the torch had pulled the metal out of true. It was imperfect. It was honest. It was the work of someone who had not been taught to hide.
 
@@ -142,8 +134,6 @@ She did not know that years later, when her name was in galleries and critics wr
 
 *Scrapped the rest.* The sculpture that had saved her life, made from scrap, returned to scrap. She would never find it. She would never learn who made it. The maintenance worker who had welded a figure from scrap metal and scratched *keep going* into the base would remain anonymous, a presence defined entirely by the work they left behind.
 
-<!-- AGENT:NOTE — Flash-forward per brief instructions; medium narrative distance for temporal sweep. The sculpture's loss mirrors the book's themes about invisible intervention — Zophiel's work was never meant to be permanent. Coordinates with CONTINUITY.md (Elena returns to Hargrove in later years; campus demolished/renovated). -->
-
 But that was later. For now, Elena sat at her desk in a dorm room on the fourth floor of Whitfield Hall, and the lamp made a circle of warm light on the sketchbook, and her hands were cold and her knees were damp and somewhere on the roof the railing she had gripped twenty minutes ago was vibrating in the dark, touched by nothing but weather.
 
 She closed the sketchbook. She put on her coat — the thrift-store peacoat, navy blue, missing one button. She put her hands in the pockets. She walked out of her room and down the four flights and through the lobby and out into the November night.
@@ -153,7 +143,3 @@ She walked across the campus and through the parking lot and along the road past
 The rest could come later. The rest could come tomorrow, or next week, or in the years that stretched ahead of her, which was terrifying and was also, she was beginning to understand, the point. You did not need to see the end. You needed to keep going. Someone had scratched it into concrete and left it in a courtyard, and it was the truest thing she knew.
 
 Elena walked through the dark with her hands in her pockets. Alive. That was enough for now.
-
-<!-- AGENT:NOTE — Chapter closes with Elena in motion, alive, in the dark — echoing the book's pattern of characters walking alone through the aftermath of pivotal moments (cf. Cassiel walking home through Queens at end of Ch. 1). The phrase "keep going" functions as Elena's "try once more" — a found philosophy that will define her arc. The chapter fulfills at least three scene functions: reveals character (Elena's artistic eye, class background, emotional guardedness), develops theme (art as salvation, invisible intervention, making beauty from discards), and advances plot (Elena's near-death and artistic transformation). -->
-
-<!-- CONTINUITY:NOTE — Elena Vasquez, age 20, year 2008 (birth year ~1988). Hargrove College of Fine Arts, western Massachusetts. Senior review, November 2008. Professor: Lindquist (53, 19 years at Hargrove, showed in Chelsea). Elena from Bridgeport, CT. Working-class family, first in family to attend college. Father: construction worker (framing/drywall). Scholarship student. Zophiel's sculpture: welded scrap metal (rebar, angle iron, bracket/hinge parts), ~18-20 inches tall, on cinder block base, "KEEP GOING" scratched into base. Sculpture located in courtyard of Whitfield Hall near maintenance shed. Elena's coat: thrift-store navy peacoat, missing one button, $12. Whitfield Hall later demolished/renovated; sculpture lost. Elena will leave MFA program, work at salvage yard in New Haven (foreman: Sal). First sculpture made from car door, chain-link fence, copper pipe. -->

@@ -6,7 +6,7 @@
 
 The chamber remembered.
 
-Sandalphon felt it the moment he entered — the way the Foundation held the residue of every session it had ever hosted, the way its walls carried impressions the way old stone carries moisture. Today the room had chosen a shape he had not seen before: a circle, not the long hall with its gradient-walls and arc of elevated seats. A circle, with seven chairs arranged equidistant around a floor of compacted light that pulsed faintly, as though the room were breathing. The equations on the ceiling — the same equations that had turned above every Council session for millennia — were still, locked in their configurations like a clock that had stopped. Waiting for someone to wind it.
+Sandalphon felt it the moment he entered — the way the Foundation held the residue of every session it had ever hosted, its walls carrying impressions as old stone carries moisture. Today the room had chosen a shape he had not seen before: a circle, not the long hall with its gradient-walls and arc of elevated seats. A circle, with seven chairs arranged equidistant around a floor of compacted light that pulsed faintly, as though the room were breathing. The equations on the ceiling — the same equations that had turned above every Council session for millennia — were still, locked in their configurations like a clock that had stopped. Waiting for someone to wind it.
 
 He had been alive for one thousand two hundred and three years, and the room still surprised him.
 
@@ -25,8 +25,6 @@ The others were arriving.
 Raguel appeared in his usual manner — completely, without transition, as if he had always been sitting in his chair and the rest of them were simply catching up to the fact. His posture was immaculate. His face carried the same expression it had carried for as long as Sandalphon had known him: composed, judicial, the face of case law and precedent and the quiet conviction that the rules were not instruments of control but of mercy, that without them the whole enterprise collapsed into sentiment and chaos.
 
 Michael entered through the north curve of the circle, the room accommodating his arrival by producing a brief shimmer in the air, like heat rising from pavement. He was not wearing the old uniform today — no silver thread, no brushed armor. He wore what he had taken to wearing in the field: a dark jacket, dark trousers, the clothes of a man who moved through inner cities and stood on corners and watched for the moments when violence was about to happen and a body positioned correctly could change the angle of a thrown punch or the trajectory of a running boy. He sat and crossed his arms. He looked tired. They all looked tired. Two years of post-Gabriel chaos had aged them in ways that should not have been possible for beings who did not age.
-
-<!-- AGENT:NOTE — Michael's field clothing signals his shift from ceremonial warrior to ground-level operator. Post-Gabriel, he's been filling operational gaps while Azrael transitions into the administrative role. -->
 
 Remiel arrived like weather — a pressure change, a drop in the room's temperature, the faint impression of something vast and sorrowful moving through a space too small to contain it. She took her seat. She did not greet anyone. She had spent the last two years ushering an increased volume of souls out of their bodies — the pandemic's long tail, the climate fires, the steady bleeding of a world that was, by every measurable index, accelerating toward something — and the work had carved new lines into her face. Not physical lines. Remiel's face was beautiful the way the ocean is beautiful, depthless and impersonal, but the beauty had acquired a weariness that even beauty could not conceal.
 
@@ -104,7 +102,7 @@ History, Sandalphon thought, did not repeat itself. It rhymed. And the rhyme was
 
 The second proposal was his.
 
-He stood. The Foundation's light gathered around him in its harmonic way — not music, not quite, but a resonance that lived in the space between sound and silence, the frequency that accompanied him wherever he went, the echo of a man who had once been a prophet and whose voice still carried the particular quality of someone who had spoken to crowds and been heard.
+He stood. The Foundation's light gathered around him in its harmonic way — not music, not quite, but a resonance that lived in the space between sound and silence, the frequency that accompanied him wherever he went, the echo of a man who had once been a prophet and whose voice still carried the quality of someone who had spoken to crowds and been heard.
 
 "The Evolutionist proposal," he said. "Not revolution. Evolution. Incremental, practical, immediately implementable."
 
@@ -115,8 +113,6 @@ First: angel coordination during Cascade events. Currently, field angels operate
 Second: increased case limits. Field angels currently carried caseloads that had not been adjusted since 1847. The human population had grown sevenfold since then. The complexity of individual cases had grown by orders of magnitude. A margin case in 1847 might involve a farmer's decision about which field to plant. A margin case in 2027 involved cascading variables across digital networks, global supply chains, algorithmic decision systems, and media ecologies that could amplify a single human choice into consequences affecting millions. The proposal raised the threshold for new case assignment and authorized a thirty percent reduction in active caseloads for angels with more than a century of continuous service.
 
 Third: mandatory mental health support. Chamuel's protocols, drafted over the past decade and ignored by three successive Council sessions, would be adopted in full. Trauma processing. Rotation options for angels who had exceeded their psychological capacity. Support groups — not the unauthorized ones Gabriel had been running for forty years, but sanctioned, resourced, protected. No angel would be disciplined for seeking help. No angel's case record would reflect a rotation request.
-
-<!-- AGENT:NOTE — The mental health protocols are Chamuel's work; Sandalphon is stewarding them through the Council. This coordinates with Gabriel's unauthorized support groups (est. 1987, Ch. 4) being legitimized. -->
 
 Fourth: direct petition rights. Field angels could petition the Council without going through regional administrators. A channel from the ground to the top, unfiltered. Not a suggestion box. A formal right, with mandatory response timelines and documented outcomes.
 
@@ -218,7 +214,7 @@ Sariel turned to the Council. To Sandalphon, specifically.
 
 He walked out. The Foundation, as it had done once before — forty years ago, for Zadkiel — produced a door. This time the door was larger. This time twenty-three angels walked through it. This time the Foundation did not dissolve the door after they left. It remained, open, an architectural fact that the room would have to account for.
 
-The equations on the ceiling scattered, reformed, scattered again. The chamber's geometry shuddered. The remaining field angels in the gallery sat with the particular stillness of people who had considered standing and had not.
+The equations on the ceiling scattered, reformed, scattered again. The chamber's geometry shuddered. The remaining field angels in the gallery sat with the stillness of people who had considered standing and had not.
 
 Metatron's voice, when it came, was the voice of an institution absorbing a blow and choosing to interpret it as a vibration rather than a fracture.
 
@@ -232,7 +228,7 @@ She had watched the first vote. She had watched Zadkiel stand and walk out and t
 
 She was two hundred and twenty-nine now. The watching had not gotten easier. It had gotten more precise. She noticed more. She understood more. She felt less certain that understanding was the same as progress.
 
-The reforms were real. She could feel them in the room — the way the Foundation's light had brightened when the vote carried, the way the equations had resumed their turning, the subtle recalibration of a system that had, for forty years, been locked in the same configuration and was now, incrementally, adjusting. The mental health protocols meant that Kokabiel — who was sitting twelve seats to her left, his hands still shaking, tears moving down his face in the silent, unself-conscious way of someone who had been holding something for thirty-three years and had just been told he was allowed to set it down — could get help. Could be rotated. Could sit in a room with other angels who had witnessed the things he had witnessed and say the words he had not said.
+The reforms were real. She could feel them in the room — the way the Foundation's light had brightened when the vote carried, how the equations had resumed their turning, the subtle recalibration of a system that had, for forty years, been locked in the same configuration and was now, incrementally, adjusting. The mental health protocols meant that Kokabiel — who was sitting twelve seats to her left, his hands still shaking, tears moving down his face in the silent, unself-conscious way of someone who had been holding something for thirty-three years and had just been told he was allowed to set it down — could get help. Could be rotated. Could sit in a room with other angels who had witnessed the things he had witnessed and say the words he had not said.
 
 The coordination protocols meant that what happened in 2024 — the school shooting, the cascading failures, the angels working in isolation while their cases converged into catastrophe — was less likely to happen again. Not impossible. Less likely. The difference between less likely and impossible was a margin, and margins were all they had ever worked with.
 
@@ -308,7 +304,7 @@ Cassiel looked at it.
 
 "You won't."
 
-"No." She looked at the door, and through it, at the corridor beyond where Sariel and his twenty-three followers had gone — toward something fiercer, something faster, something that might be transformation or might be the particular kind of destruction that came from people who were right about the problem and wrong about the solution. "I work margins. Margins are small. But they hold."
+"No." She looked at the door, and through it, at the corridor beyond where Sariel and his twenty-three followers had gone — toward something fiercer, something faster, something that might be transformation or might be the kind of destruction that came from people who were right about the problem and wrong about the solution. "I work margins. Margins are small. But they hold."
 
 Azrael nodded. He did not argue. He was the Angel of Death and the Regional Administrator and a four-hundred-year cynic who was learning, against every instinct and every record he had ever kept, to administer hope. He could not argue with margins. Margins were all he had.
 
@@ -317,7 +313,3 @@ They stepped through the dissolving gradient, into the cold clarity of the 6th H
 Behind them, the Foundation contracted to a point and disappeared.
 
 Sariel's door remained.
-
-<!-- AGENT:NOTE — The chapter mirrors Chapter 4's structure deliberately: same location, same gallery seat for Cassiel, same post-vote conversation format (Gabriel in Ch. 4, Azrael here). The two votes parallel the 1987 Subtlety Protocols vote — the Interventionist proposal failing 4-3 echoes the original political split. Sariel's walkout mirrors Zadkiel's in Ch. 4 but at larger scale (23 angels vs. 1). The door remaining open (vs. dissolving in Ch. 4) signals the schism is deeper and more durable. Kokabiel's weeping is the specific payoff for Chamuel's mental health protocols. -->
-
-<!-- CONTINUITY:NOTE — 2027 Council composition: Metatron, Raguel, Sandalphon, Michael, Remiel, Jophiel (replaced Gabriel), Sariel. Interventionist proposal fails 4-3 (For: Michael, Remiel, Sandalphon, Sariel; Against: Metatron, Raguel, Jophiel). Evolutionist proposal passes 5-2 (For: Raguel, Michael, Remiel, Sandalphon, Sariel; Against: Metatron, Jophiel). Reforms: coordination during Cascades, increased case limits, mandatory mental health support (Chamuel's protocols), direct petition rights. Sariel walks out with 23 followers, leads Interventionists as formal breakaway. Azrael is Regional Administrator (Gabriel's old role). Cassiel is 229 years old. Sandalphon is 1,203 years of service. Gabriel died 2025. Kokabiel witnessed Rwanda 1994 (33 years ago). School shooting was 2024. Sariel's door remains open (not dissolved). -->

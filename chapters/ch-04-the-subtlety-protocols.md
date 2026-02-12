@@ -14,9 +14,7 @@ Below, the Council members were arriving.
 
 Gabriel came first, which was unusual. He normally entered exactly on time, a man who had turned punctuality into a form of protest against the institution that employed him. Today he was fifteen minutes early, carrying a manila folder thick enough to suggest he'd been building an argument for weeks. He wore the same rumpled charcoal suit he always wore to formal proceedings, the tie loosened before the meeting had even begun. He sat, opened the folder, and began marking pages with a pencil stub from behind his ear.
 
-<!-- AGENT:NOTE — Gabriel's early arrival and prepared materials signal he knows what Metatron is proposing and has marshaled a counter-argument. This foreshadows his later formation of unauthorized support groups. -->
-
-Raguel arrived next, in the way Raguel always arrived: precisely, completely, without transition. One moment his seat was empty; the next he occupied it, hands folded, posture a diagram of correct procedure. His face was as Cassiel always found it -- handsome in the way that legal documents are handsome, everything in proportion, nothing inviting a second look.
+Raguel arrived next, in the way Raguel always arrived: precisely, completely, without transition. One moment his seat was empty; the next he occupied it, hands folded, posture a diagram of correct procedure. His face was as Cassiel always found it -- handsome as legal documents are handsome, everything in proportion, nothing inviting a second look.
 
 Michael entered through the east gradient, which rippled around him like water accepting a stone. He was in the old uniform, the one field angels hadn't worn since the 17th century, all sharp angles and brushed silver thread. A political choice. Michael only wore the old armor when he wanted to remind the Council who had led the first war and won it.
 
@@ -49,8 +47,6 @@ Metatron lifted the document. The text rearranged itself depending on the angle 
 "The Subtlety Protocols," Gabriel said flatly. "The field is already calling them that. Three weeks before you've even tabled them."
 
 "What that tells me is that field angels spend more time naming things than executing their assignments. Which is, in part, the problem this protocol addresses."
-
-<!-- AGENT:NOTE — Metatron's dismissal of field angel culture establishes the core tension between administrative/theoretical angels and operational ones. This division will widen across 40 years. -->
 
 Metatron spoke for forty minutes without interruption. The core of it: visible miracles were a liability. They always had been, but in the early centuries the damage was manageable -- a burning bush here, a parted sea there, events in pre-literate societies where the line between natural phenomenon and divine intervention stayed pleasantly blurred. But humans now carried cameras. They networked information instantaneously. A visible miracle in 1987 would be on the evening news within hours and dismantled by a hundred institutions within days.
 
@@ -91,8 +87,6 @@ Raguel spoke. "The protocol does not require abandoning cases. It requires creat
 "Either we operate within the law, or we admit the law no longer applies." Raguel's voice was the voice of case law, of precedent. "I don't think anyone at this table is prepared to make that admission."
 
 Gabriel looked at Sandalphon. Sandalphon looked at his hands.
-
-<!-- AGENT:NOTE — Gabriel and Sandalphon's visual exchange signals their shared dissent but different strategies. Gabriel fights openly; Sandalphon works within the system. This divergence persists for 40 years. -->
 
 Michael had not spoken. He sat with his arms crossed, the silver thread of his uniform catching the gradient-light in ways that made him look like a figure in a stained-glass window. He was a warrior in an age that had not yet decided whether it still needed warriors. He believed in redemption through strength. He also believed in following orders. These two beliefs lived in him like competing gravitational forces, and Cassiel had watched, across decades, the slow tidal damage their opposition caused.
 

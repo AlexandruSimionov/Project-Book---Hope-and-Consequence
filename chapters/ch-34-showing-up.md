@@ -14,8 +14,6 @@ She sat in the car with the engine off and the windows down, and the May morning
 
 DeShawn would come through those doors. He would be wearing the clothes he'd gone in with — the jeans, the gray hoodie, the Jordans that were three years out of style now but that he'd kept in a bag under his bunk because they were the last thing he'd worn as a free person and he was not going to let go of them. He would be carrying a clear plastic bag with whatever he'd accumulated — letters, a paperback, the Bible his grandmother had sent him that Keisha suspected he'd never opened. He would be twenty years old. He would be someone she recognized and someone she didn't, the way a person is both the child you raised and the adult the world made, and the distance between those two versions was not a distance you could measure but one you could feel, in the chest, in the hands, in the specific grief of a mother who had done everything right and watched it go wrong anyway.
 
-<!-- AGENT:NOTE — Keisha's POV established through specific sensory and temporal detail; her internal architecture rendered through the same precision that governed Ch. 13 (Small Margins). -->
-
 She had brought food. Not from a restaurant — the restaurant she would have chosen, the one on Liberty Heights that made the fried chicken DeShawn had loved as a boy, the place with the red vinyl booths and the jukebox that still played Al Green, had closed four years ago. Another small business that the neighborhood had lost, replaced by nothing, the storefront sitting empty with brown paper over the windows and the sign still up, the letters fading. So she had made it herself. The recipe was in her head, not written down, the way recipes lived in the heads of women who had learned to cook from women who had learned from other women, the knowledge passed through hands rather than pages. Fried chicken, buttermilk-brined overnight, dredged in seasoned flour, fried in a cast-iron skillet that had belonged to her mother's mother and that bore the patina of sixty years of oil and heat. Collard greens with smoked turkey neck. Cornbread, sweet, because DeShawn liked it sweet, had always liked it sweet, had dipped it in pot liquor as a boy with the focused absorption of a child performing a ritual.
 
 The food was in a cooler in the back seat. She had woken at four to make it. Not 5:14 — four. The alarm she did not need anymore, because her body had long since internalized the geometry of early mornings, the muscle memory of rising before the world did. She had stood in the kitchen of the apartment on Edmondson Avenue — the same apartment, twelve years later, though the thermostat was set at sixty-eight now instead of sixty-two, and the pipes did not freeze, and the microwave worked — and she had cooked in the dark the way she had always cooked, by feel, by sound, by the particular sizzle that told her the oil was ready, the shift in color that told her the flour had browned, the smell that told her the greens were done.
@@ -40,7 +38,7 @@ His voice was lower. Not deeper — lower, the volume turned down, as if he had 
 
 "Hey, baby."
 
-She got out of the car. She stood beside it. She did not rush toward him because rushing would have been too much — too much feeling compressed into too small a gesture, the weight of three years of visiting rooms and phone calls and the particular desolation of a mother who does the math every night and calculates the number of days remaining and does not allow herself to feel anything about the number because feeling would use energy she needed for the morning.
+She got out of the car. She stood beside it. She did not rush toward him because rushing would have been too much — too much feeling compressed into too small a gesture, the weight of three years of visiting rooms and phone calls and the desolation of a mother who does the math every night and calculates the number of days remaining and does not allow herself to feel anything about the number because feeling would use energy she needed for the morning.
 
 He stopped in front of her. Two feet of parking lot between them. The May sun was on his face, and the light was honest in the way that outdoor light is always honest, illuminating the scar and the harder jaw and the new lines at the corners of his eyes that a twenty-year-old should not have.
 
@@ -108,7 +106,7 @@ Keisha signaled, changed lanes, took the exit. The ramp curved down into the sur
 
 ---
 
-The apartment smelled like it always smelled — lavender from the plug-in, old plaster, radiator dust, and underneath it all, the particular warmth of a space that had been inhabited by the same person for a long time, the accumulated residue of years of cooking and breathing and living in four rooms. DeShawn stood in the doorway and looked at it the way you look at a place that was once your whole world and that has become, in your absence, someone else's.
+The apartment smelled like it always smelled — lavender from the plug-in, old plaster, radiator dust, and underneath it all, the warmth of a space that had been inhabited by the same person for a long time, the accumulated residue of years of cooking and breathing and living in four rooms. DeShawn stood in the doorway and looked at it the way you look at a place that was once your whole world and that has become, in your absence, someone else's.
 
 The furniture was the same. The couch, the kitchen table, the chairs. But there were additions — a bookshelf that had not been there when he left, filled with textbooks and binders and the professional literature of a woman who had gone back to school at thirty-five and finished at forty-three and who now ran a nonprofit that helped families with incarcerated members navigate the systems that incarceration produced. On the wall, a framed certificate: KEISHA WILLIAMS, MASTER OF SOCIAL WORK, UNIVERSITY OF MARYLAND, SCHOOL OF SOCIAL WORK, 2025. Next to it, a photograph of the Second Margins office on Greenmount Avenue — the small office, the secondhand furniture, the poster on the wall: NOBODY FALLS ALONE.
 
@@ -124,7 +122,7 @@ DeShawn looked at the certificate. He looked at the photograph. He looked at Kei
 
 He nodded. The nod was slow, deliberate, the gesture of a person processing information that rearranged the internal map. His mother, who had worked two jobs and walked 4.7 miles in January and set her alarm for 5:14 and found his left shoe every morning — his mother had done this. While he was in a cell. While she was driving to Jessup on visiting days and picking up his collect calls and putting money in his commissary account and doing all the invisible labor that families of incarcerated people performed, the labor that no one counted and no one compensated and that fell disproportionately on women who were already carrying more than the architecture could bear.
 
-"Mama," he said. And the word, spoken in his lowered voice, in the apartment that smelled like lavender and old plaster, carried a weight that the two syllables were not designed to hold — gratitude and shame and something else, something that lived in the overlap between the two, the particular anguish of a young man who understood that his mother had built a life out of the same years he had lost.
+"Mama," he said. And the word, spoken in his lowered voice, in the apartment that smelled like lavender and old plaster, carried a weight that the two syllables were not designed to hold — gratitude and shame and something else, something that lived in the overlap between the two, the anguish of a young man who understood that his mother had built a life out of the same years he had lost.
 
 "Sit down," Keisha said. "Eat."
 
@@ -132,7 +130,7 @@ She unpacked the cooler. She set the food on the kitchen table — the same tabl
 
 DeShawn sat. He looked at the food. He picked up a piece of chicken and held it, and the holding lasted longer than the bite, as if the weight of it in his hand was the thing he needed, more than the eating — the physical proof that someone had woken at four in the morning and stood in a kitchen and cooked for him, had chosen to cook, had measured the spices by feel and timed the oil by sound and carried the knowledge of how he liked his food through three years of his absence, holding it the way you hold a stone in your pocket.
 
-He ate. He ate the way hungry people eat — not fast, but thoroughly, the attention given to each bite, the awareness that food made by someone who loves you tastes different from food made by an institution, the way a room you choose is different from a room you are assigned. Keisha sat across from him and drank coffee and watched him eat, and the watching was enough, the watching was its own meal, the nourishment of a mother seeing her child fed.
+He ate. He ate the way hungry people eat — not fast, but thoroughly, the attention given to each bite, the awareness that food made by someone who loves you tastes different from food made by an institution — as a room you choose is different from a room you are assigned. Keisha sat across from him and drank coffee and watched him eat, and the watching was enough, the watching was its own meal, the nourishment of a mother seeing her child fed.
 
 "I need to tell you something," DeShawn said.
 
@@ -232,8 +230,6 @@ She thought about DeShawn on the couch, pulling the quilt to his chin. The gestu
 
 She finished mopping the hallway. She wrung out the mop. She put the bucket in the utility closet. She clocked out. She drove home.
 
-<!-- AGENT:NOTE — Raphael's intervention is the timed encounter with the celebrating grandfather. No angel appears; the intervention is environmental/circumstantial per Subtlety Protocols. The laughter and the grandfather's joy crack Keisha's defensive ambivalence about the pregnancy. Coordinates with OVERARCHING_NARRATIVE.md re: Raphael's methodology (timing, not causation) established in Ch. 13. -->
-
 ---
 
 The apartment was dark. Three in the morning. The same hour that Cassiel had sat in a hospital waiting room in 1985, the same hour when margin cases thinned and clarified, the hour when the noise of the day had been stripped away and what remained was essential.
@@ -291,7 +287,3 @@ But Keisha did not know this. She did not get to see the pattern from above. She
 She held the baby. She showed up.
 
 The work continued.
-
-<!-- AGENT:NOTE — Cassiel Williams named by Danielle, unknowingly. The baby's future (climate activist, psychiatrist, final patient in closing circle per OVERARCHING_NARRATIVE.md) is projected but not dwelt on — Keisha's POV is grounded in present experience, not prophetic knowledge. Raphael's intervention (grandfather's laughter) is the margin that tips Keisha from ambivalence to commitment. The chapter closes with "The work continued" — echoing Ch. 32's ending, linking Cassiel's decision (stay in field) with Keisha's decision (show up as grandmother). -->
-
-<!-- CONTINUITY:NOTE — May-August 2026. Keisha Williams age 44 (born ~1982). DeShawn age 20, released after 3 years. Danielle (girlfriend) age 22, works at CVS, later pharmacy. Baby: Cassiel Williams, born August 2026. Keisha now works at Johns Hopkins as community health liaison (promoted from cleaning). Second Margins nonprofit on Greenmount Avenue, operational. MSW from University of Maryland, 2025. Apartment still on Edmondson Avenue. Tiana: 2nd year at Morgan State, education major. Jaylen: 12, plays basketball. Keisha's mother died at 58 (stroke). Grandmother's quilt: faded blue and yellow squares. Mrs. Paulette Davis, Denise Hall (credit union) referenced. DeShawn has scar below left ear. Jordans kept through incarceration. Danielle heard name "Cassiel" somewhere, liked the sound. -->
